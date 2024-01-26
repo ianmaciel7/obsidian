@@ -4,5 +4,7 @@
   "easy-typing-obsidian",
   "highlightr-plugin",
   "obsidian-linter",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "slash-commander"
 ]

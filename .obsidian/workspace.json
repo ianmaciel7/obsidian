@@ -10,15 +10,13 @@
           {
             "id": "461261bf90d43ebc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Teste.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -164,11 +162,13 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "461261bf90d43ebc",
   "lastOpenFiles": [
+    "templates/Sem título.md",
     "Teste.md",
     "templates",
     "obsidian",
