@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "461261bf90d43ebc",
+  "active": "0501e35b8b14fe8c",
   "lastOpenFiles": [
     "Teste.md",
     "obsidian",
