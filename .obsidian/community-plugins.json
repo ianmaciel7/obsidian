@@ -7,6 +7,8 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "slash-commander",
+  "quick-preview",
+  "waypoint",
   "obsidian-auto-hide",
-  "quick-preview"
+  "grappling-hook"
 ]

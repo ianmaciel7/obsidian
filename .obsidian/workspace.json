@@ -10,13 +10,15 @@
           {
             "id": "461261bf90d43ebc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Azure.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             },
             "group": "8ff42859f63da5d9"
           }
@@ -30,6 +32,7 @@
           {
             "id": "dbcfa2656aa8e628",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
@@ -59,7 +62,8 @@
                   "scale": 1,
                   "close": false
                 }
-              }
+              },
+              "pinned": true
             },
             "group": "8ff42859f63da5d9"
           }
@@ -113,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a24c23473543e2d7",
@@ -130,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure.md"
+                "file": "Sem título.canvas"
               }
             }
           },
@@ -211,9 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbcfa2656aa8e628",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
     "Azure.md",
+    "Sem título.canvas",
     "Teste.md",
     "2024-01-26.md",
     "templates/Sem título.md",
