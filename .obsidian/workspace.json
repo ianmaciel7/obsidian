@@ -160,11 +160,13 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "0501e35b8b14fe8c",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
+    "templates",
     "Teste.md",
     "obsidian",
     "Teste.md",
