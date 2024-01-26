@@ -6,5 +6,7 @@
   "obsidian-linter",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "slash-commander"
+  "slash-commander",
+  "obsidian-auto-hide",
+  "quick-preview"
 ]

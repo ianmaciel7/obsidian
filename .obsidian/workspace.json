@@ -13,14 +13,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste.md",
+                "file": "Azure.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "8ff42859f63da5d9"
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "20e23a71c301e3a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbcfa2656aa8e628",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Azure.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "8ff42859f63da5d9"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a24c23473543e2d7",
@@ -86,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste.md",
+                "file": "Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste.md",
+                "file": "Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste.md"
+                "file": "Azure.md"
               }
             }
           },
@@ -151,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +211,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "461261bf90d43ebc",
+  "active": "dbcfa2656aa8e628",
   "lastOpenFiles": [
-    "templates/Sem título.md",
+    "Azure.md",
     "Teste.md",
+    "2024-01-26.md",
+    "templates/Sem título.md",
     "templates",
     "obsidian",
     "Welcome.md"
