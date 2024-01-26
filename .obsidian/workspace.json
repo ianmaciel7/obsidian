@@ -161,15 +161,15 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4122e7f420e31a06",
+  "active": "461261bf90d43ebc",
   "lastOpenFiles": [
+    "Teste.md",
     "templates",
-    "Teste.md",
     "obsidian",
-    "Teste.md",
     "Welcome.md"
   ]
 }
