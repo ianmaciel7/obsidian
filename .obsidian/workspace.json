@@ -6,7 +6,7 @@
       {
         "id": "20e23a71c301e3a1",
         "type": "tabs",
-        "dimension": 78.93660531697341,
+        "dimension": 52.979651162790695,
         "children": [
           {
             "id": "28ffbe187cdc3fe2",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/Arquitetura do Azure.md",
+                "file": "Notas Permanentes/Azure/Arquitetura do Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
+                "file": "Notas Permanentes/Azure/Arquitetura do Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "22656b3f2c9b3fe1",
         "type": "tabs",
-        "dimension": 21.063394683026583,
+        "dimension": 47.020348837209305,
         "children": [
           {
             "id": "5144f4626e700e81",
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
+                "file": "Notas Permanentes/Azure/Arquitetura do Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +215,9 @@
   "active": "90924b17944124bb",
   "lastOpenFiles": [
     "Notas Permanentes/Azure/Untitled.loom",
-    "Notas Permanentes/Arquitetura do Azure.md",
+    "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "Notas Permanentes/Azure/Azure.md",
+    "icons/font-awesome-brands/ApplePay.svg",
     "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
     "templates/Notas Permanentes.md",
     "Notas Permanentes/Azure/Planos do Azure.md",
@@ -238,7 +239,6 @@
     "icons/azure/Configurations.svg",
     "icons/azure/Config.svg",
     "icons/azure/ConfgExplore.svg",
-    "icons/azure/Compass3.svg",
     "icons/azure/Index.html",
     "Clould/azure.md",
     "Notas Permanentes/Azure/Arquitetura",
