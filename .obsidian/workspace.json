@@ -10,6 +10,7 @@
           {
             "id": "20e23a71c301e3a1",
             "type": "tabs",
+            "dimension": 52.41379310344828,
             "children": [
               {
                 "id": "067750d184b75370",
@@ -24,12 +25,26 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "b2998eaef61149da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notas Permanentes/Azure/Azure.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "1ca391916b719e8d",
             "type": "tabs",
+            "dimension": 47.58620689655172,
             "children": [
               {
                 "id": "1aa7b74333cb28ca",
@@ -47,6 +62,23 @@
                 "state": {
                   "type": "mindmap",
                   "state": {}
+                }
+              },
+              {
+                "id": "e411216a4f0ab81d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Notas Permanentes/Azure/Azure.canvas",
+                    "viewState": {
+                      "x": 1440.7426608835758,
+                      "y": 7585.060487933218,
+                      "zoom": -1.4836341315473822
+                    }
+                  },
+                  "pinned": true
                 }
               }
             ],
@@ -198,7 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas Permanentes/Azure/Azure.md"
+              }
             }
           },
           {
@@ -218,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,13 +284,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "49b9271d6a04ed0f",
+  "active": "b2998eaef61149da",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
-    "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",
-    "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",
+    "Notas Permanentes/Azure/Azure.canvas",
     "Notas Permanentes/Azure/Azure.md",
+    "Notas Permanentes/Azure/Azure File Sync.md",
+    "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",
+    "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Web Application Firewall.md",
     "hybrid-cloud 1.md",
     "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
@@ -297,7 +332,6 @@
     "Notas Permanentes/Azure/Plataforma de Acesso/Portal.md",
     "Notas Permanentes/Clould/Clould.md",
     "Notas Permanentes/Azure/Plataforma de Acesso/PowerShell.md",
-    "Clould/Azure/Arquitetura/Sem título.md",
     "Sem título.canvas"
   ]
 }
