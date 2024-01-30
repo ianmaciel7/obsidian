@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
+                "file": "Azure Resource Manager (ARM).md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
+                "file": "Azure Resource Manager (ARM).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Notas Permanentes/Azure/Serviços/\" ",
+                "query": "path:\"Notas Permanentes/Azure/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
+                "file": "Azure Resource Manager (ARM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
+                "file": "Azure Resource Manager (ARM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços/Serviços.md"
+                "file": "Azure Resource Manager (ARM).md"
               }
             }
           }
@@ -265,9 +265,16 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "6a766c377fd027af",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
+    "Serviços do Azure/Serviços do Azure/Azure DevOps.md",
+    "Serviços do Azure/Serviços do Azure/Serviços do Azure.md",
+    "Azure Resource Manager (ARM).md",
+    "Serviços do Azure/Serviços do Azure",
     "Notas Permanentes/Azure/Azure.md",
+    "Serviços do Azure",
+    "Notas Permanentes/Sem título",
+    "Notas Permanentes/Azure/Serviços/Serviços.md",
     "icons/az-logos/Csharp2.svg",
     "icons/az-logos/Csharp1.svg",
     "icons/az-logos/CPlusplus.svg",
@@ -281,9 +288,6 @@
     "icons/az-logos",
     "icons/az",
     "icons/font-awesome-brands",
-    "Notas Permanentes/Azure/Serviços/Serviços.md",
-    "Notas Permanentes/Azure/Serviços/Azure DevOps.md",
-    "Notas Permanentes/Azure/Serviços/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Serviços",
     "Notas Permanentes/Azure/Hierarquia de Gerenciamento do Azure.md",
     "Notas Permanentes/Azure/Arquitetura do Azure.md",
@@ -300,9 +304,6 @@
     "Clould/Azure/Arquitetura/Sem título.md",
     "icons/azure/Index.html",
     "Clould/azure.md",
-    "Notas Permanentes/Azure/Arquitetura",
-    "Notas Permanentes/Azure/Plataforma de Acesso",
-    "Notas Permanentes/Azure",
     "icons/azure/_tools/readme.md",
     "icons/azure/readme.md",
     "icons/azure/CHANGELOG.md",
@@ -310,8 +311,6 @@
     "icons/icon-collection-master/readme.md",
     "icons/icon-collection-master/CHANGELOG.md",
     "Clould/Azure/Sem título.md",
-    "Clould/Azure/Plataforma de Acesso.md",
-    "202401301610.md",
     "Sem título.canvas"
   ]
 }
