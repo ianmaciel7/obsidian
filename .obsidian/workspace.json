@@ -27,31 +27,7 @@
                 }
               },
               {
-                "id": "dcac7d488307be8b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Azure Web Application Firewall.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fcfd59b288053b34",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2585e418600f7d50",
+                "id": "1aa7b74333cb28ca",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -63,7 +39,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "30fc9e5f6208558d",
@@ -338,14 +314,15 @@
   },
   "active": "6a766c377fd027af",
   "lastOpenFiles": [
-    "Notas Permanentes/Fundamentos Cloud",
-    "Notas Permanentes/Sem título.md",
-    "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
-    "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
-    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Azure Web Application Firewall.md",
     "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
+    "hybrid-cloud.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
+    "Notas Permanentes/Fundamentos Cloud",
+    "Notas Permanentes/Sem título.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
+    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Planos do Azure",
@@ -374,7 +351,6 @@
     "icons/az-logos/Chef1.svg",
     "icons/az-logos",
     "icons/az",
-    "icons/font-awesome-brands",
     "templates/Notas Permanentes.md",
     "Notas Permanentes/Azure/Plataforma de Acesso/Command-line interface.md",
     "Notas Permanentes/Azure/Arquitetura/Data Center.md",

@@ -1,0 +1,3 @@
+---
+Aliases: [ "#cloud/hybrid-cloud" ]
+---

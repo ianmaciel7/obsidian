@@ -1,6 +1,7 @@
 ---
 tags:
   - cloud/hybrid-cloud
+  - cloud/file-sync
 ---
 
 # Sobre
