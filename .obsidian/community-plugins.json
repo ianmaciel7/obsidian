@@ -1,17 +1,15 @@
 [
-  "obsidian-git",
-  "easy-typing-obsidian",
-  "highlightr-plugin",
-  "obsidian-linter",
-  "templater-obsidian",
-  "obsidian-excalidraw-plugin",
-  "slash-commander",
-  "quick-preview",
-  "waypoint",
-  "grappling-hook",
   "cmenu-plugin",
+  "grappling-hook",
+  "easy-typing-obsidian",
+  "obsidian-excalidraw-plugin",
   "folder-note-plugin",
+  "highlightr-plugin",
+  "obsidian-git",
+  "obsidian-linter",
   "multi-properties",
-  "various-complements",
-  "obsidian-dictionary-plugin"
+  "quick-preview",
+  "slash-commander",
+  "templater-obsidian",
+  "various-complements"
 ]

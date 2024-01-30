@@ -223,7 +223,6 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
