@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "AzAzureOffical",
       "FabApplePay",
       "CuAzureActiveDirectory"
     ],
@@ -24,5 +25,5 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Azure": "CuAzureActiveDirectory"
+  "Notas Permanentes/Clould/Azure": "AzAzureOffical"
 }
