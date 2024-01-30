@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure Resource Manager (ARM).md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Azure Resource Manager (ARM).md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure Resource Manager (ARM).md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure Resource Manager (ARM).md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure Resource Manager (ARM).md"
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md"
               }
             }
           }
@@ -265,15 +265,25 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "4122e7f420e31a06",
+  "active": "067750d184b75370",
   "lastOpenFiles": [
-    "Serviços do Azure/Serviços do Azure/Azure DevOps.md",
-    "Serviços do Azure/Serviços do Azure/Serviços do Azure.md",
-    "Azure Resource Manager (ARM).md",
-    "Serviços do Azure/Serviços do Azure",
+    "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+    "Notas Permanentes/Azure/a/a.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
+    "Notas Permanentes/Azure/Serviços do Azure",
     "Notas Permanentes/Azure/Azure.md",
+    "Notas Permanentes/Azure/Hierarquia de Gerenciamento do Azure.md",
+    "Notas Permanentes/Azure/Azure/Azure.md",
+    "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
+    "Notas Permanentes/Azure/Planos do Azure.md",
+    "Notas Permanentes/Azure/Arquitetura do Azure.md",
+    "Notas Permanentes/Azure/Azure",
+    "Notas Permanentes/Azure/a",
     "Serviços do Azure",
-    "Notas Permanentes/Sem título",
+    "Serviços do Azure/Serviços do Azure/Serviços do Azure.md",
+    "Serviços do Azure/Serviços do Azure",
+    "Serviços do Azure",
     "Notas Permanentes/Azure/Serviços/Serviços.md",
     "icons/az-logos/Csharp2.svg",
     "icons/az-logos/Csharp1.svg",
@@ -289,20 +299,13 @@
     "icons/az",
     "icons/font-awesome-brands",
     "Notas Permanentes/Azure/Serviços",
-    "Notas Permanentes/Azure/Hierarquia de Gerenciamento do Azure.md",
-    "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "templates/Notas Permanentes.md",
-    "Notas Permanentes/Azure/Untitled.loom",
-    "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
-    "Notas Permanentes/Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Plataforma de Acesso/Command-line interface.md",
     "Notas Permanentes/Azure/Arquitetura/Data Center.md",
     "Notas Permanentes/Azure/Plataforma de Acesso/Portal.md",
     "Notas Permanentes/Clould/Clould.md",
     "Notas Permanentes/Azure/Plataforma de Acesso/PowerShell.md",
-    "Notas Permanentes",
     "Clould/Azure/Arquitetura/Sem título.md",
-    "icons/azure/Index.html",
     "Clould/azure.md",
     "icons/azure/_tools/readme.md",
     "icons/azure/readme.md",
@@ -310,7 +313,6 @@
     "icons/icon-collection-master/_tools/readme.md",
     "icons/icon-collection-master/readme.md",
     "icons/icon-collection-master/CHANGELOG.md",
-    "Clould/Azure/Sem título.md",
     "Sem título.canvas"
   ]
 }

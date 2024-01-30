@@ -6,5 +6,5 @@
   "debugLogging": false,
   "useWikiLinks": true,
   "showEnclosingNote": false,
-  "folderNoteType": "OUTSIDE_FOLDER"
+  "folderNoteType": "INSIDE_FOLDER"
 }
