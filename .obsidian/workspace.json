@@ -8,34 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "461261bf90d43ebc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clould/Azure/Command-line interface.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            },
-            "group": "8ff42859f63da5d9"
-          },
-          {
-            "id": "f11d83df690275f7",
+            "id": "49766983e579a7f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clould/Azure/Azure.md",
+                "file": "Clould/Azure/PowerShell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "20e23a71c301e3a1",
@@ -44,11 +28,10 @@
           {
             "id": "dbcfa2656aa8e628",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Clould/Azure/Command-line interface.md",
+                "file": "Clould/Azure/PowerShell.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -71,13 +54,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761022,
+                  "scale": 0.713275462622443,
                   "close": true
                 }
-              },
-              "pinned": true
-            },
-            "group": "8ff42859f63da5d9"
+              }
+            }
           }
         ]
       }
@@ -108,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Azure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clould/Azure/Azure.md",
+                "file": "Clould/Azure/PowerShell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clould/Azure/Azure.md",
+                "file": "Clould/Azure/PowerShell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +156,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -185,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clould/Azure/Azure.md"
+                "file": "Clould/Azure/PowerShell.md"
               }
             }
           },
@@ -206,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "zk-prefixer:Criar nova nota única": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
@@ -222,18 +204,17 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f11d83df690275f7",
+  "active": "49766983e579a7f7",
   "lastOpenFiles": [
-    "Clould/Azure/Sem título.md",
-    "Clould/Azure/Azure.md",
-    "Clould/Clould.md",
-    "Clould/Azure/PowerShell.md",
     "Clould/Azure/Portal.md",
     "Clould/Azure/Command-line interface.md",
+    "Clould/Azure/Azure.md",
+    "Clould/Azure/Sem título.md",
+    "Clould/Clould.md",
+    "Clould/Azure/PowerShell.md",
     "Clould/Azure/Plataforma de Acesso.md",
     "202401301610.md",
     "Sem título.canvas",
