@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "80879a09b4dc8ca2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "49766983e579a7f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clould/Azure/Azure.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "20e23a71c301e3a1",
         "type": "tabs",
         "children": [
@@ -59,8 +41,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "a2f18d1d6917fa2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clould/Azure/Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#azure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,13 +203,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbcfa2656aa8e628",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
+    "Data Center.md",
+    "icons/azure/AdDomainServices.svg",
+    "icons/azure/ActiveDirectoryB2c.svg",
+    "icons/azure/ActiveDirectory.svg",
+    "icons/azure/Workspaces.svg",
+    "icons/azure/Workflow.svg",
+    "icons/azure/Workbooks.svg",
+    "icons/azure/WindowsVirtualDesktop.svg",
+    "icons/azure/WebTest.svg",
+    "icons/azure/WebSlots.svg",
+    "icons/azure/WebsiteStaging.svg",
+    "icons/azure/Index.html",
+    "Clould/Azure/Azure.md",
+    "Clould/Azure/Arquitetura/Sem título.md",
+    "Clould/azure.md",
+    "Clould/Azure/Arquitetura",
     "Clould/Azure/Plataforma de Acesso/PowerShell.md",
     "Clould/Azure/Plataforma de Acesso/Portal.md",
     "Clould/Azure/Plataforma de Acesso/Command-line interface.md",
     "Clould/Clould.md",
-    "Clould/Azure/Azure.md",
     "Clould/Azure/Plataforma de Acesso",
     "Clould/Azure",
     "icons/azure/_tools/templates/gallery.ejs",
@@ -224,19 +233,7 @@
     "icons/azure/_tools/run-scrape.sh",
     "icons/azure/_tools/run-gallery.sh",
     "icons/azure/_tools/package-lock.json",
-    "icons/azure/_tools/gallery.js",
     "icons/azure/_tools/readme.md",
-    "icons/azure/_tools/package.json",
-    "icons/azure/_tools/background.png",
-    "icons/azure/_archive/cloud-old/Windows 10 IoT Core Services.svg",
-    "icons/azure/_archive/cloud-old/What's New.svg",
-    "icons/azure/_archive/cloud-old/Web App Firewall.svg",
-    "icons/azure/_archive/cloud-old/VM.svg",
-    "icons/azure/_archive/cloud-old/VM-windows-non-azure.svg",
-    "icons/azure/_archive/cloud-old/VM-windows.svg",
-    "icons/azure/_archive/cloud-old/VM-Linux-non-azure.svg",
-    "icons/azure/_archive/cloud-old/VM-Linux.svg",
-    "icons/azure/_archive/cloud-old/VM-non-azure.svg",
     "icons/azure/readme.md",
     "icons/azure/CHANGELOG.md",
     "icons/icon-collection-master/_tools/readme.md",
