@@ -10,3 +10,6 @@ Use a Sincronização de Arquivos do Azure para centralizar os compartilhamentos
 > [!NOTE] Resumo
 > cria armazodor centralizado cache de arquivos
 
+# Referências
+* [[Hybrid-cloud]]
+* /

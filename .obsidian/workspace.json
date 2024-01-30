@@ -32,7 +32,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
+                    "file": "Notas Permanentes/Azure/Azure.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "33d62b49003bcd1a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hybrid-cloud.md",
                     "mode": "source",
                     "source": false
                   }
@@ -69,7 +81,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -118,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:cloud/hybrid-cloud",
+                "query": "tag:#cloud/hybrid-cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,20 +183,9 @@
     "type": "split",
     "children": [
       {
-        "id": "75b8571a0d27cd84",
+        "id": "90e9f541be2834bc",
         "type": "tabs",
         "children": [
-          {
-            "id": "2d0fbb3a5f86c3c9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
           {
             "id": "36106bdda9f47de9",
             "type": "leaf",
@@ -199,6 +200,24 @@
             "state": {
               "type": "git-history-view",
               "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "75b8571a0d27cd84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d0fbb3a5f86c3c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -224,6 +243,22 @@
               "type": "juggl_style",
               "state": {}
             }
+          }
+        ]
+      },
+      {
+        "id": "fd8f03dec26fee27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f8be42688d6be80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Permanentes/Azure/Azure.md"
+              }
+            }
           },
           {
             "id": "0bcc582638a5df84",
@@ -231,45 +266,6 @@
             "state": {
               "type": "reference-map-view",
               "state": {}
-            }
-          },
-          {
-            "id": "0d8b125f47f8ade3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7be9d40d1658a247",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1f8be42688d6be80",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md"
-              }
             }
           },
           {
@@ -281,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -309,16 +305,18 @@
       "reference-map:Reference Map": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6a766c377fd027af",
+  "active": "1aa7b74333cb28ca",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
-    "Azure Web Application Firewall.md",
-    "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
-    "hybrid-cloud.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
+    "Hybrid-cloud.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Azure Web Application Firewall.md",
+    "hybrid-cloud 1.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+    "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
     "Notas Permanentes/Fundamentos Cloud",
     "Notas Permanentes/Sem título.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
@@ -359,7 +357,6 @@
     "Notas Permanentes/Azure/Plataforma de Acesso/PowerShell.md",
     "Clould/Azure/Arquitetura/Sem título.md",
     "Clould/azure.md",
-    "icons/azure/_tools/readme.md",
     "Sem título.canvas"
   ]
 }

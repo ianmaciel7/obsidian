@@ -19,5 +19,6 @@ O Microsoft Azure é uma plataforma destinada à execução de aplicativos e ser
 	- [[Azure DevOps]]
 	- [[Azure File Sync]]
 	- [[Azure Resource Manager (ARM)]]
+	- [[Azure Web Application Firewall]]
 
 %% End Waypoint %%
