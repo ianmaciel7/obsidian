@@ -14,15 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command-line interface.md",
+                "file": "Clould/Azure/Command-line interface.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             },
             "group": "8ff42859f63da5d9"
+          },
+          {
+            "id": "f11d83df690275f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clould/Azure/Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "20e23a71c301e3a1",
@@ -35,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Command-line interface.md",
+                "file": "Clould/Azure/Command-line interface.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -53,7 +66,7 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
@@ -65,18 +78,6 @@
               "pinned": true
             },
             "group": "8ff42859f63da5d9"
-          },
-          {
-            "id": "b0f305569fde7331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Command-line interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -124,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command-line interface.md",
+                "file": "Clould/Azure/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command-line interface.md",
+                "file": "Clould/Azure/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command-line interface.md"
+                "file": "Clould/Azure/Azure.md"
               }
             }
           },
@@ -226,19 +226,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbcfa2656aa8e628",
+  "active": "f11d83df690275f7",
   "lastOpenFiles": [
+    "Clould/Azure/Sem título.md",
     "Clould/Azure/Azure.md",
-    "Command-line interface.md",
-    "PowerShell.md",
-    "Portal.md",
-    "Sem título.canvas",
-    "202401301610.md",
-    "icons/1200px-Microsoft_Azure.svg.png",
+    "Clould/Clould.md",
+    "Clould/Azure/PowerShell.md",
+    "Clould/Azure/Portal.md",
+    "Clould/Azure/Command-line interface.md",
     "Clould/Azure/Plataforma de Acesso.md",
+    "202401301610.md",
+    "Sem título.canvas",
+    "icons/1200px-Microsoft_Azure.svg.png",
     "icons",
     "Clould/Azure",
-    "Clould/Clould.md",
     "casa.md",
     "Clould",
     "Teste.md",

@@ -2,7 +2,9 @@
 
 %% Begin Waypoint %%
 - **[[Azure]]**
-	- [[Plataforma de Acesso]]
+	- [[Command-line interface]]
+	- [[Portal]]
+	- [[PowerShell]]
 
 %% End Waypoint %%
 
