@@ -2,16 +2,10 @@
   "version": "2.0",
   "layout": [
     [
-      [
-        null,
-        null
-      ],
-      [
-        null,
-        null
-      ]
+      null
     ],
     [
+      null,
       {
         "type": "pinned",
         "path": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md"
