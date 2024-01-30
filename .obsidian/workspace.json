@@ -6,52 +6,72 @@
       {
         "id": "8852979c38de87a8",
         "type": "split",
-        "dimension": 65.1541593949971,
         "children": [
           {
-            "id": "20e23a71c301e3a1",
-            "type": "tabs",
+            "id": "12f081c787eb8adf",
+            "type": "split",
             "children": [
               {
-                "id": "067750d184b75370",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
-                    "mode": "source",
-                    "source": false
+                "id": "20e23a71c301e3a1",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "067750d184b75370",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
                   },
-                  "pinned": true
-                }
+                  {
+                    "id": "33d62b49003bcd1a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Hybrid-cloud.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               },
               {
-                "id": "1aa7b74333cb28ca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notas Permanentes/Azure/Azure.md",
-                    "mode": "source",
-                    "source": false
+                "id": "1ca391916b719e8d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "60b8386a4e766ddb",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "juggl_view",
+                      "state": {},
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "1aa7b74333cb28ca",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
                   }
-                }
-              },
-              {
-                "id": "33d62b49003bcd1a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hybrid-cloud.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+                ],
+                "currentTab": 1
               }
             ],
-            "currentTab": 1
+            "direction": "vertical"
           },
           {
             "id": "30fc9e5f6208558d",
@@ -69,48 +89,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "22656b3f2c9b3fe1",
-        "type": "tabs",
-        "dimension": 34.845840605002905,
-        "children": [
-          {
-            "id": "5144f4626e700e81",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notas Permanentes/Azure/Azure.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cloud/hybrid-cloud",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,9 +233,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas Permanentes/Azure/Azure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -311,16 +287,16 @@
   },
   "active": "1aa7b74333cb28ca",
   "lastOpenFiles": [
+    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
     "Hybrid-cloud.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Web Application Firewall.md",
     "hybrid-cloud 1.md",
-    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
     "Notas Permanentes/Fundamentos Cloud",
     "Notas Permanentes/Sem título.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
-    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Planos do Azure",
