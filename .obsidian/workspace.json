@@ -21,19 +21,8 @@
               "pinned": true
             },
             "group": "8ff42859f63da5d9"
-          },
-          {
-            "id": "c7c3619c7e692be9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "icons/1200px-Microsoft_Azure.svg.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "20e23a71c301e3a1",
@@ -123,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "icons/1200px-Microsoft_Azure.svg.png",
+                "file": "Clould/Azure/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "icons/1200px-Microsoft_Azure.svg.png",
+                "file": "Clould/Azure/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "icons/1200px-Microsoft_Azure.svg.png"
+                "file": "Clould/Azure/Azure.md"
               }
             }
           },
@@ -225,17 +215,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7c3619c7e692be9",
+  "active": "461261bf90d43ebc",
   "lastOpenFiles": [
+    "Sem título.canvas",
     "Clould/Azure/Azure.md",
-    "Clould/Azure/Plataforma de Acesso.md",
+    "202401301610.md",
     "icons/1200px-Microsoft_Azure.svg.png",
+    "Clould/Azure/Plataforma de Acesso.md",
     "icons",
     "Clould/Azure",
     "Clould/Clould.md",
     "casa.md",
     "Clould",
-    "Sem título.canvas",
     "Teste.md",
     "2024-01-26.md",
     "templates/Sem título.md",
