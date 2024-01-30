@@ -1,10 +1,7 @@
 
 
 %% Begin Waypoint %%
-- [[Azure]]
-- [[Command-line interface]]
-- [[Portal]]
-- [[PowerShell]]
+- **[[Azure]]**
 
 %% End Waypoint %%
 

@@ -8,12 +8,12 @@
   "highlightr-plugin",
   "obsidian-icon-folder",
   "obsidian-linter",
-  "graph-nested-tags",
   "quick-preview",
   "slash-commander",
   "tag-wrangler",
   "templater-obsidian",
   "various-complements",
   "waypoint",
-  "obsidian-tagfolder"
+  "obsidian-tagfolder",
+  "multi-tag"
 ]
