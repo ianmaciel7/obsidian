@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clould/Clould.md",
+                "file": "Clould/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,8 +71,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 1.4019828977761022,
+                  "close": true
                 }
               },
               "pinned": true
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clould/Clould.md",
+                "file": "Clould/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clould/Clould.md",
+                "file": "Clould/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clould/Clould.md"
+                "file": "Clould/Azure.md"
               }
             }
           },
@@ -226,10 +226,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7c3619c7e692be9",
+  "active": "dbcfa2656aa8e628",
   "lastOpenFiles": [
-    "Clould/Azure.md",
     "Clould/Clould.md",
+    "Clould/Azure.md",
     "casa.md",
     "Clould",
     "Sem título.canvas",
