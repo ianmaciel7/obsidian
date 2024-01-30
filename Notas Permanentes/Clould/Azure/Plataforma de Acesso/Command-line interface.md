@@ -1,6 +1,5 @@
 ---
 tags:
-  - azure
-  - azure/plataforma_de_acesso
+  - plataforma_de_acesso
 ---
 
