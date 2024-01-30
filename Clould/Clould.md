@@ -1,6 +1,7 @@
 
 
 %% Begin Waypoint %%
-- [[Azure]]
+- **[[Azure]]**
+
 %% End Waypoint %%
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clould/Azure.md",
+                "file": "Clould/Azure/Azure.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clould/Azure.md",
+                "file": "Clould/Azure/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Clould/Azure.md",
+                "file": "Clould/Azure/Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clould/Azure.md",
+                "file": "Clould/Azure/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clould/Azure.md",
+                "file": "Clould/Azure/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clould/Azure.md"
+                "file": "Clould/Azure/Azure.md"
               }
             }
           },
@@ -223,13 +223,15 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c7c3619c7e692be9",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
+    "Clould/Azure",
     "Clould/Clould.md",
-    "Clould/Azure.md",
+    "Clould/Azure/Azure.md",
     "casa.md",
     "Clould",
     "Sem título.canvas",

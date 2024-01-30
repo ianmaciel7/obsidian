@@ -1,7 +1,0 @@
----
-tags:
-  - cloud
----
-# Sobre
-
- Numero 
