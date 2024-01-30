@@ -215,6 +215,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Criar nova nota única": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -226,7 +227,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbcfa2656aa8e628",
+  "active": "c7c3619c7e692be9",
   "lastOpenFiles": [
     "Clould/Clould.md",
     "Clould/Azure.md",

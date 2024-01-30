@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "various-complements",
   "easy-typing-obsidian",
   "highlightr-plugin",
   "obsidian-linter",
@@ -12,5 +11,7 @@
   "grappling-hook",
   "cmenu-plugin",
   "folder-note-plugin",
-  "multi-properties"
+  "multi-properties",
+  "various-complements",
+  "obsidian-dictionary-plugin"
 ]
