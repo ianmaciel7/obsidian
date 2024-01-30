@@ -5,7 +5,7 @@
 * Gerenciamento 
 	* [[Azure Resource Manager (ARM)]]
 * Monitoramento
-	* **DDos Protection Plan / Plano de Proteção contra DDos**
+	* **DDos Protection Plan**
 	- **Azure Web Application Firewall / Firewall do Aplicativo Web (WAF)**
 	- **Application Security Group / Grupos de Segurança do Aplicativo (ASG)**
 	- **Integridade de Serviço**
@@ -19,3 +19,14 @@
 	- **Azure Monitor Alerts**
 	- **Microsoft Sentinel / Sentinela**
 	- **Microsoft Purview**
+- Armazenamento
+	* **Storage Sync Services / Serviços de Sincronização de Armazenamento**
+    - **Redundância do Armazenamento**
+    - **Storage Account / Conta de Armazenamento**
+    - **Azure Disk Storage**
+    - **Azure Cosmos DB**
+    - **Azure SQL Database**
+    - **Azure Database for MySQL**
+    - **Instancia Gerenciada de SQL Azure**
+    - **Azure Database for PostgreSQL**
+    - **Cache Redis do Azure**

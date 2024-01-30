@@ -281,9 +281,17 @@
                 "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md"
               }
             }
+          },
+          {
+            "id": "fe6b30c294ac84e9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -308,10 +316,11 @@
       "quick-tagger:Remove tag from current note": true,
       "float-search:Search Obsidian In Modal": false,
       "juggl:Juggl global graph": false,
-      "reference-map:Reference Map": false
+      "reference-map:Reference Map": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "49b9271d6a04ed0f",
+  "active": "fe6b30c294ac84e9",
   "lastOpenFiles": [
     "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
