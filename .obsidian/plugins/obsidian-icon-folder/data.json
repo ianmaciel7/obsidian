@@ -1,7 +1,7 @@
 {
   "settings": {
     "migrated": 4,
-    "iconPacksPath": ".obsidian/icons",
+    "iconPacksPath": "/icons",
     "fontSize": 17,
     "emojiStyle": "none",
     "iconColor": null,
@@ -24,5 +24,5 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Clould/Azure": "CuAzureActiveDirectory"
+  "Azure": "CuAzureActiveDirectory"
 }

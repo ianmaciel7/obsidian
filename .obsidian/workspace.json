@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clould/Azure/PowerShell.md",
+                "file": "clould/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Clould/Azure/PowerShell.md",
+                "file": "clould/Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Azure",
+                "query": "tag:#azure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clould/Azure/PowerShell.md",
+                "file": "clould/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clould/Azure/PowerShell.md",
+                "file": "clould/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clould/Azure/PowerShell.md"
+                "file": "clould/Azure.md"
               }
             }
           },
@@ -187,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "zk-prefixer:Criar nova nota única": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
@@ -204,30 +204,52 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "49766983e579a7f7",
+  "active": "2d0fbb3a5f86c3c9",
   "lastOpenFiles": [
-    "Clould/Azure/Portal.md",
-    "Clould/Azure/Command-line interface.md",
-    "Clould/Azure/Azure.md",
+    "clould/Command-line interface.md",
+    "clould/Portal.md",
+    "clould/PowerShell.md",
+    "clould/Azure.md",
+    "clould/clould.md",
+    "icons/azure/_tools/templates/gallery.ejs",
+    "icons/azure/_tools/scrape.js",
+    "icons/azure/_tools/templates",
+    "icons/azure/_tools/run-scrape.sh",
+    "icons/azure/_tools/run-gallery.sh",
+    "icons/azure/_tools/package-lock.json",
+    "icons/azure/_tools/gallery.js",
+    "icons/azure/_tools/readme.md",
+    "icons/azure/_tools/package.json",
+    "icons/azure/_tools/convert-png.sh",
+    "icons/azure/_tools/clean-offical.sh",
+    "icons/azure/_tools/background.png",
+    "icons/azure/_archive/cloud-old/Windows 10 IoT Core Services.svg",
+    "icons/azure/_archive/cloud-old/What's New.svg",
+    "icons/azure/_archive/cloud-old/Web App Firewall.svg",
+    "icons/azure/_archive/cloud-old/VM.svg",
+    "icons/azure/_archive/cloud-old/VM-windows-non-azure.svg",
+    "icons/azure/_archive/cloud-old/VM-windows.svg",
+    "icons/azure/_archive/cloud-old/VM-Linux-non-azure.svg",
+    "icons/azure/_archive/cloud-old/VM-Linux.svg",
+    "icons/azure/_archive/cloud-old/VM-non-azure.svg",
+    "icons/azure/readme.md",
+    "icons/azure/CHANGELOG.md",
+    "icons/icon-collection-master/_tools/readme.md",
+    "icons/icon-collection-master/readme.md",
+    "icons/icon-collection-master/CHANGELOG.md",
     "Clould/Azure/Sem título.md",
-    "Clould/Clould.md",
-    "Clould/Azure/PowerShell.md",
     "Clould/Azure/Plataforma de Acesso.md",
     "202401301610.md",
     "Sem título.canvas",
-    "icons/1200px-Microsoft_Azure.svg.png",
-    "icons",
-    "Clould/Azure",
     "casa.md",
-    "Clould",
     "Teste.md",
     "2024-01-26.md",
     "templates/Sem título.md",
-    "templates",
-    "obsidian",
     "Welcome.md"
   ]
 }
