@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/Clould/Clould.md",
+                "file": "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Clould/Clould.md",
+                "file": "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,12 +198,18 @@
   },
   "active": "28ffbe187cdc3fe2",
   "lastOpenFiles": [
-    "Notas Permanentes/Clould/Azure/Azure.md",
-    "Notas Permanentes/Clould/Azure/Arquitetura/Data Center.md",
-    "Notas Permanentes/Clould/Azure/Plataforma de Acesso/PowerShell.md",
-    "Notas Permanentes/Clould/Azure/Plataforma de Acesso/Portal.md",
-    "Notas Permanentes/Clould/Azure/Plataforma de Acesso/Command-line interface.md",
+    "templates/Notas Permanentes.md",
+    "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
+    "Notas Permanentes/Azure/Planos do Azure.md",
+    "Notas Permanentes/Azure/Sem título.md",
+    "Notas Permanentes/Azure/Hierarquia de Gerenciamento do Azure.md",
+    "Notas Permanentes/Azure/Azure.md",
+    "Notas Permanentes/Azure/Arquitetura do Azure.md",
+    "Notas Permanentes/Azure/Plataforma de Acesso/Command-line interface.md",
+    "Notas Permanentes/Azure/Arquitetura/Data Center.md",
+    "Notas Permanentes/Azure/Plataforma de Acesso/Portal.md",
     "Notas Permanentes/Clould/Clould.md",
+    "Notas Permanentes/Azure/Plataforma de Acesso/PowerShell.md",
     "Notas Permanentes",
     "Clould/Azure/Arquitetura/Sem título.md",
     "icons/azure/ContainerinstancesMono.svg",
@@ -218,9 +224,9 @@
     "icons/azure/Compass3.svg",
     "icons/azure/Index.html",
     "Clould/azure.md",
-    "Notas Permanentes/Clould/Azure/Arquitetura",
-    "Notas Permanentes/Clould/Azure/Plataforma de Acesso",
-    "Notas Permanentes/Clould/Azure",
+    "Notas Permanentes/Azure/Arquitetura",
+    "Notas Permanentes/Azure/Plataforma de Acesso",
+    "Notas Permanentes/Azure",
     "icons/azure/_tools/templates/gallery.ejs",
     "icons/azure/_tools/scrape.js",
     "icons/azure/_tools/templates",
@@ -238,8 +244,6 @@
     "Sem título.canvas",
     "casa.md",
     "Teste.md",
-    "2024-01-26.md",
-    "templates/Sem título.md",
-    "Welcome.md"
+    "2024-01-26.md"
   ]
 }
