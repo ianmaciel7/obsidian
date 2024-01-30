@@ -1,5 +1,5 @@
 {
-  "waypointFlag": "%% waypoint %%",
+  "waypointFlag": "%% wp %%",
   "stopScanAtFolderNotes": false,
   "showFolderNotes": true,
   "showNonMarkdownFiles": false,

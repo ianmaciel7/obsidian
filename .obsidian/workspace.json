@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços/Azure DevOps.md",
+                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços/Azure DevOps.md",
+                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -61,17 +61,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "1a4a1d257fe5fd63",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Notas Permanentes/Azure/Serviços/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,13 +196,52 @@
               "type": "reference-map-view",
               "state": {}
             }
+          },
+          {
+            "id": "0d8b125f47f8ade3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7be9d40d1658a247",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas Permanentes/Azure/Serviços/Serviços.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f8be42688d6be80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas Permanentes/Azure/Serviços/Serviços.md"
+              }
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,17 +265,30 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "067750d184b75370",
+  "active": "6a766c377fd027af",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Serviços/Serviços do Azure.md",
-    "Notas Permanentes/Azure/Serviços/Azure DevOps.md",
     "Notas Permanentes/Azure/Azure.md",
+    "icons/az-logos/Csharp2.svg",
+    "icons/az-logos/Csharp1.svg",
+    "icons/az-logos/CPlusplus.svg",
+    "icons/az-logos/CorednsIconColor.svg",
+    "icons/az-logos/ContainerdIconColor.svg",
+    "icons/az-logos/CncfIcon.svg",
+    "icons/az-logos/Cncf.svg",
+    "icons/az-logos/CLang.svg",
+    "icons/az-logos/Chef2.svg",
+    "icons/az-logos/Chef1.svg",
+    "icons/az-logos",
+    "icons/az",
+    "icons/font-awesome-brands",
+    "Notas Permanentes/Azure/Serviços/Serviços.md",
+    "Notas Permanentes/Azure/Serviços/Azure DevOps.md",
+    "Notas Permanentes/Azure/Serviços/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Serviços",
     "Notas Permanentes/Azure/Hierarquia de Gerenciamento do Azure.md",
     "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "templates/Notas Permanentes.md",
     "Notas Permanentes/Azure/Untitled.loom",
-    "icons/font-awesome-brands/ApplePay.svg",
     "Notas Permanentes/Azure/Boas Praticas Para Azure.md",
     "Notas Permanentes/Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Plataforma de Acesso/Command-line interface.md",
@@ -255,23 +298,11 @@
     "Notas Permanentes/Azure/Plataforma de Acesso/PowerShell.md",
     "Notas Permanentes",
     "Clould/Azure/Arquitetura/Sem título.md",
-    "icons/azure/ContainerinstancesMono.svg",
-    "icons/azure/ContainerInsights.svg",
-    "icons/azure/Container.svg",
-    "icons/azure/Connector.svg",
-    "icons/azure/Connectiontypes.svg",
-    "icons/azure/ConnectionStrings.svg",
-    "icons/azure/Configurations.svg",
-    "icons/azure/Config.svg",
-    "icons/azure/ConfgExplore.svg",
     "icons/azure/Index.html",
     "Clould/azure.md",
     "Notas Permanentes/Azure/Arquitetura",
     "Notas Permanentes/Azure/Plataforma de Acesso",
     "Notas Permanentes/Azure",
-    "icons/azure/_tools/templates/gallery.ejs",
-    "icons/azure/_tools/scrape.js",
-    "icons/azure/_tools/templates",
     "icons/azure/_tools/readme.md",
     "icons/azure/readme.md",
     "icons/azure/CHANGELOG.md",
@@ -281,7 +312,6 @@
     "Clould/Azure/Sem título.md",
     "Clould/Azure/Plataforma de Acesso.md",
     "202401301610.md",
-    "Sem título.canvas",
-    "casa.md"
+    "Sem título.canvas"
   ]
 }

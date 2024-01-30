@@ -11,7 +11,7 @@ O Microsoft Azure é uma plataforma destinada à execução de aplicativos e ser
 - [[Boas Praticas Para Azure]]
 - [[Hierarquia de Gerenciamento do Azure]]
 - [[Planos do Azure]]
-- [[Serviços do Azure]]
+- [[Serviços]]
 
 %% End Waypoint %%
 
