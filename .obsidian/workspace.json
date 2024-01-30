@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clould/Azure/Azure.md",
+                "file": "Command-line interface.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Clould/Azure/Azure.md",
+                "file": "Command-line interface.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -65,6 +65,18 @@
               "pinned": true
             },
             "group": "8ff42859f63da5d9"
+          },
+          {
+            "id": "b0f305569fde7331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command-line interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clould/Azure/Azure.md",
+                "file": "Command-line interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clould/Azure/Azure.md",
+                "file": "Command-line interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clould/Azure/Azure.md"
+                "file": "Command-line interface.md"
               }
             }
           },
@@ -198,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +226,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "461261bf90d43ebc",
+  "active": "dbcfa2656aa8e628",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "Clould/Azure/Azure.md",
+    "Command-line interface.md",
+    "PowerShell.md",
+    "Portal.md",
+    "Sem título.canvas",
     "202401301610.md",
     "icons/1200px-Microsoft_Azure.svg.png",
     "Clould/Azure/Plataforma de Acesso.md",
