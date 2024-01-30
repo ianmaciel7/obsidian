@@ -4,48 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "20e23a71c301e3a1",
-        "type": "tabs",
+        "id": "8852979c38de87a8",
+        "type": "split",
         "dimension": 65.1541593949971,
         "children": [
           {
-            "id": "067750d184b75370",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
-                "mode": "source",
-                "source": false
+            "id": "20e23a71c301e3a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "067750d184b75370",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2499bd5bd496fdd6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "2ddc429cf2571f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "2499bd5bd496fdd6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "juggl_view",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "2ddc429cf2571f73",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "30fc9e5f6208558d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49b9271d6a04ed0f",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       },
       {
         "id": "22656b3f2c9b3fe1",
@@ -58,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -82,7 +103,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -228,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,12 +278,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md"
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -290,14 +311,14 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "2ddc429cf2571f73",
+  "active": "49b9271d6a04ed0f",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
-    "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "Notas Permanentes/Azure/Azure.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
-    "Notas Permanentes/Azure/a/a.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
+    "Notas Permanentes/Azure/Arquitetura do Azure.md",
+    "Notas Permanentes/Azure/a/a.md",
     "Notas Permanentes/Azure/Serviços do Azure",
     "Notas Permanentes/Azure/Hierarquia de Gerenciamento do Azure.md",
     "Notas Permanentes/Azure/Azure/Azure.md",
