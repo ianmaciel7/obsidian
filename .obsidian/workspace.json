@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Planos-doAzure",
+                "query": "tag:cloud/hybrid-cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -305,7 +305,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -336,17 +336,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2585e418600f7d50",
+  "active": "6a766c377fd027af",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
+    "Notas Permanentes/Fundamentos Cloud",
+    "Notas Permanentes/Sem título.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
+    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Azure Web Application Firewall.md",
     "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
     "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Planos do Azure",
-    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "Notas Permanentes/Azure/a/a.md",
     "Notas Permanentes/Azure/Serviços do Azure",
@@ -382,8 +384,6 @@
     "Clould/Azure/Arquitetura/Sem título.md",
     "Clould/azure.md",
     "icons/azure/_tools/readme.md",
-    "icons/azure/readme.md",
-    "icons/azure/CHANGELOG.md",
     "Sem título.canvas"
   ]
 }

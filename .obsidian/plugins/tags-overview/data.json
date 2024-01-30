@@ -6,7 +6,7 @@
   "keepFilters": true,
   "displayHeaders": false,
   "storedFilters": "",
-  "showNested": false,
+  "showNested": true,
   "showRelatedTags": true,
   "showCalendarDates": true,
   "dateFormat": "YYYY-MM-DD",
