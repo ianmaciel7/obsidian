@@ -1,15 +1,7 @@
 {
   "version": "2.0",
   "layout": [
-    [
-      null
-    ],
-    [
-      {
-        "type": "pinned",
-        "path": "1. Complementos/Notas Arquivadas/Arquitetura de Gerenciamento do Azure.md"
-      }
-    ]
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",
