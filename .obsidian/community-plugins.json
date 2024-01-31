@@ -1,7 +1,6 @@
 [
   "grappling-hook",
   "cmenu-plugin",
-  "easy-typing-obsidian",
   "obsidian-excalidraw-plugin",
   "folder-note-plugin",
   "obsidian-git",
@@ -14,9 +13,7 @@
   "templater-obsidian",
   "various-complements",
   "waypoint",
-  "obsidian-tagfolder",
   "multi-tag",
-  "tags-overview",
   "obsidian-plugin-tagged-documents-viewer",
   "obsidian-hider",
   "quick-tagger",
@@ -47,5 +44,5 @@
   "canvas-filter",
   "close-similar-tabs",
   "open-in-new-tab",
-  "neo4j-graph-view"
+  "homepage"
 ]
