@@ -13,3 +13,4 @@ Use a Sincronização de Arquivos do Azure para centralizar os compartilhamentos
 # Referências
 * [[Hybrid-cloud]]
 * /
+#Notas-Permanentes

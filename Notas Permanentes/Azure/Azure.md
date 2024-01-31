@@ -20,3 +20,5 @@ O Microsoft Azure é uma plataforma destinada à execução de aplicativos e ser
 	- [[Azure Web Application Firewall]]
 
 %% End Waypoint %%
+
+#Notas-Permanentes

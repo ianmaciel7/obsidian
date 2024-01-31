@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notas Permanentes/Azure/Azure.md",
+                    "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
                     "mode": "source",
                     "source": false
                   }
@@ -243,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "fd8f03dec26fee27",
@@ -254,7 +254,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md"
+              }
             }
           },
           {
@@ -277,7 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,8 +354,9 @@
       }
     ]
   },
-  "active": "1aa7b74333cb28ca",
+  "active": "2ea2e2da9fe5daa2",
   "lastOpenFiles": [
+    "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "templates/Notas Permanentes.md",
@@ -370,7 +373,6 @@
     "Notas Permanentes/Fundamentos Cloud",
     "Notas Permanentes/Sem título.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
-    "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Planos do Azure",
     "Notas Permanentes/Azure/a/a.md",

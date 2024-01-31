@@ -14,7 +14,8 @@
     "cloud/hybrid-cloud": 1,
     "cloud/file-sync": 2,
     "linux": 2,
-    "flashcard": 3
+    "flashcard": 3,
+    "Notas-Permanentes": 4
   },
   "_version": 3
 }

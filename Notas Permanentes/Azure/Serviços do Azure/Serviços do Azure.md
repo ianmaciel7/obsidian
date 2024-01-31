@@ -32,3 +32,4 @@
     - **Azure Database for PostgreSQL**
     - **Cache Redis do Azure**
 - 
+#Notas-Permanentes

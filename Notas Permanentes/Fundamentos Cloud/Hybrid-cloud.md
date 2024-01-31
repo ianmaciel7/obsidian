@@ -4,3 +4,5 @@ aliases:
 tags:
   - cloud/hybrid-cloud
 ---
+
+#Notas-Permanentes
