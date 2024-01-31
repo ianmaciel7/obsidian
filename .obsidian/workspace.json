@@ -10,7 +10,7 @@
           {
             "id": "8edd911f324effce",
             "type": "tabs",
-            "dimension": 79.55426356589147,
+            "dimension": 62.7906976744186,
             "children": [
               {
                 "id": "d24aa1cae4d35161",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notas Permanentes/Azure/Azure.md",
+                    "file": "Notas/Notas Permanentes/Azure/Azure.md",
                     "mode": "source",
                     "source": false
                   }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+                    "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
                     "mode": "source",
                     "source": false
                   }
@@ -42,7 +42,7 @@
           {
             "id": "79f87958f107209a",
             "type": "tabs",
-            "dimension": 20.44573643410853,
+            "dimension": 37.2093023255814,
             "children": [
               {
                 "id": "647d39d967c63e42",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md"
+                "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+                "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+                "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,16 +264,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c1cb10040e5ea0f",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Arquitetura de Azure Infraestrutura.md",
-    "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
-    "Notas Permanentes/Azure/Planos do Azure.md",
-    "Notas Permanentes/Azure/Microsoft Entra.md",
-    "Notas Permanentes/Azure/Azure.md",
+    "Sem título",
+    "Notas",
+    "Notas/Notas Permanentes/Azure/Arquitetura de Azure Infraestrutura.md",
+    "Notas/Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+    "Notas/Notas Permanentes/Azure/Planos do Azure.md",
+    "Notas/Notas Permanentes/Azure/Microsoft Entra.md",
+    "Notas/Notas Permanentes/Azure/Azure.md",
     "image/Hierarquia de Grupo de Gerenciamento.jpeg",
     "image/Hierarquia de Gerenciamento.png",
-    "Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+    "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
     "image",
     "Icons/az/APIManagementServices.svg",
     "Icons/az/ABSMember.svg",
@@ -284,7 +286,7 @@
     "Icons/az/BlobBlock.svg",
     "Icons/az/BizTalk.svg",
     "Icons/az",
-    "Notas Permanentes/Azure/Boas Práticas para o Azure.md",
+    "Notas/Notas Permanentes/Azure/Boas Práticas para o Azure.md",
     "[Azure Accounts.md",
     "[[Azure Accounts.md",
     "Azure Accounts.md",
@@ -293,7 +295,7 @@
     "notas-permanentes.md",
     "Notas Permanentes/Azure/Sem título",
     "Notas Permanentes/Azure/Plataforma de Acesso do Azure.md",
-    "Notas Permanentes/Azure",
+    "Notas/Notas Permanentes/Azure",
     "Templates/Notas Permanentes Template.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
@@ -311,7 +313,6 @@
     "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
     "Notas Permanentes/Azure/Planos do Azure",
     "Notas Permanentes/Azure/a/a.md",
-    "Notas Permanentes/Azure/Serviços do Azure",
     "Sem título.canvas"
   ]
 }

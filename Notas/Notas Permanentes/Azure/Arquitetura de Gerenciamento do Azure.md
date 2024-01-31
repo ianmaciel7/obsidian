@@ -14,7 +14,7 @@ cssclasses: []
 Para usar recursos do [[Azure]] requer requer ao menos uma uma conta para associação. 
 
 # 2. Management Groups
-um nível de escopo acima das assinaturas. Você organiza Subscriptions em contêineres
+um nível de escopo acima das assinaturas. Você organiza Subscriptions em contêineres pode ser categoriazado
 
 # 3. Subscriptions
 no Azure Subscriptions são uma unidade de gestão ou seja departamentos de desenvolvimento, marketing e vendas
