@@ -11,7 +11,7 @@
 		{"id":"Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md","type":"file","file":"Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md","x":1000,"y":6600,"width":500,"height":500},
 		{"id":"Notas Permanentes/Azure/Serviços do Azure/Azure Web Application Firewall.md","type":"file","file":"Notas Permanentes/Azure/Serviços do Azure/Azure Web Application Firewall.md","x":1000,"y":7200,"width":500,"height":500},
 		{"id":"Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md","type":"file","file":"Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md","x":2000,"y":6000,"width":500,"height":500},
-		{"id":"Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md","type":"file","file":"Notas Permanentes/Azure/Azure File Sync.md","x":1000,"y":6000,"width":500,"height":500}
+		{"id":"Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md","type":"file","file":"Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md","x":1000,"y":6000,"width":500,"height":500}
 	],
 	"edges":[
 		{"id":"Notas Permanentes/Azure/Azure.md-Notas Permanentes/Azure/Arquitetura do Azure.md","fromNode":"Notas Permanentes/Azure/Azure.md","fromSide":"right","toNode":"Notas Permanentes/Azure/Arquitetura do Azure.md","toSide":"left"},

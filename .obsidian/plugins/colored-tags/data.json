@@ -12,7 +12,9 @@
   "knownTags": {
     "cloud": 1,
     "cloud/hybrid-cloud": 1,
-    "cloud/file-sync": 2
+    "cloud/file-sync": 2,
+    "linux": 2,
+    "flashcard": 3
   },
   "_version": 3
 }

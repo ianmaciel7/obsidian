@@ -31,3 +31,4 @@
     - **Instancia Gerenciada de SQL Azure**
     - **Azure Database for PostgreSQL**
     - **Cache Redis do Azure**
+- 
