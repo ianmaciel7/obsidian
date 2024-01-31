@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
+                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,8 +52,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3be8af9b5c4aa654",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md"
+                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md"
               }
             }
           },
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
+                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,14 +140,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
+                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "fd8f03dec26fee27",
@@ -230,13 +228,13 @@
   },
   "active": "d24aa1cae4d35161",
   "lastOpenFiles": [
-    "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
+    "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "1. Complementos/Templates/Notas Permanentes Template.md",
     "2. Notas Temporária/Exam-Topics/31-01-2024.md",
     "2024-01-31.md",
     "4. Notas Permanentes/Azure/Azure.md",
-    "2. Notas Temporária/Exam-Topics/Sem título.md",
     "2. Notas Temporária/Exam-Topics",
     "4. Notas Permanentes/Azure/Sem título.md",
     "1. Complementos/Notas Arquivadas/Microsoft Entra.md",
