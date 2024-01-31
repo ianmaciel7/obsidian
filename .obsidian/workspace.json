@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Azure",
+                "query": "tag:Notas-Permanentes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md"
+                "file": "Notas Permanentes/Azure/Azure.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,14 +192,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "fd8f03dec26fee27",
@@ -281,8 +280,8 @@
   },
   "active": "3befa01fe1a7bd2f",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+    "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Sem título",
     "Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
