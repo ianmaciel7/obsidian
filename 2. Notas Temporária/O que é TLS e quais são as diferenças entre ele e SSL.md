@@ -23,7 +23,14 @@ url: "https://rockcontent.com/br/blog/tls/"
 * SP4 veio antes do TLS
 * TLS usa Hash
 * TLS quanto SSL são certificados de segurança
+* TLS é considerado o sucessor do SLL
 * Camadas
 	* TLS: Camada de Transporte
 	* SSL: Camada de Soquete
-* 
+* Conexões
+	* TLS: implícita
+	* SLL: explicita
+* SLL foi descontinuado
+* TLS e SLL usam handshake
+* o handshake se baseia em troca de chaves publicas e privadas para criar varias chave de sessão para criptografas e descriptografar os dados
+* o 
