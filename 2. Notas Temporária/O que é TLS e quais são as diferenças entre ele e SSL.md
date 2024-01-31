@@ -15,5 +15,15 @@ url: "https://rockcontent.com/br/blog/tls/"
 ```
 
 
-# Pra que server
+# Ba
 * deixar site seguro
+* é um protocolos
+* aumenta rankeamento de SSOs
+* TLS é a sigla de Transport Layer Security
+* SP4 veio antes do TLS
+* TLS usa Hash
+* TLS quanto SSL são certificados de segurança
+* Camadas
+	* TLS: Camada de Transporte
+	* SSL: Camada de Soquete
+* 
