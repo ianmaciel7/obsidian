@@ -1,7 +1,6 @@
 ---
 tags:
   - cloud
-  - linux
 ---
 
 # Sobre
