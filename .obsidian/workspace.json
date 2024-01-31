@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+                    "file": "Notas Permanentes/Azure/Azure.md",
                     "mode": "source",
                     "source": false
                   }
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3be8af9b5c4aa654",
@@ -243,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "fd8f03dec26fee27",
@@ -254,9 +255,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -279,7 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 629.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,13 +353,13 @@
       }
     ]
   },
-  "active": "2ea2e2da9fe5daa2",
+  "active": "1aa7b74333cb28ca",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Azure.md",
+    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
+    "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "templates/Notas Permanentes.md",
-    "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Flash Cards/Azure Flash Cards.md",
     "Flash Cards",
     "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
