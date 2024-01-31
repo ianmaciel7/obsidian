@@ -13,39 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Permanentes/Azure/Azure.md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "6cc7fa25def4076a"
-          },
-          {
-            "id": "8dbce56338c47dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/Azure/Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d737314b2446ef0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Permanentes/Azure/Arquitetura do Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "69ac38c865c7dd63",
@@ -57,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas Permanentes/Azure/Azure.md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -86,8 +61,17 @@
               }
             },
             "group": "6cc7fa25def4076a"
+          },
+          {
+            "id": "998c2ff2a6cdf15f",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Permanentes/Azure/Azure.md"
+                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md"
               }
             }
           },
@@ -191,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Permanentes/Azure/Azure.md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Permanentes/Azure/Azure.md",
+                "file": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,11 +279,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8dbce56338c47dac",
+  "active": "3befa01fe1a7bd2f",
   "lastOpenFiles": [
-    "Notas Permanentes/Azure/Serviços do Azure.md",
     "Notas Permanentes/Azure/Azure.md",
-    "Notas Permanentes/Azure/Arquitetura do Azure.md",
+    "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+    "Notas Permanentes/Azure/Planos do Azure.md",
+    "Notas Permanentes/Azure/Sem título",
+    "Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+    "Notas Permanentes/Azure/Boas Práticas para o Azure.md",
+    "Notas Permanentes/Azure/Arquitetura de Azure Infraestrutura.md",
     "Notas Permanentes/Azure/Plataforma de Acesso do Azure.md",
     "Notas Permanentes/Azure",
     "templates/Notas Permanentes Template.md",
@@ -328,7 +316,6 @@
     "Serviços do Azure",
     "Serviços do Azure/Serviços do Azure/Serviços do Azure.md",
     "Serviços do Azure/Serviços do Azure",
-    "Serviços do Azure",
     "Notas Permanentes/Azure/Serviços/Serviços.md",
     "icons/az-logos/Csharp2.svg",
     "icons/az-logos/Csharp1.svg",
@@ -341,8 +328,6 @@
     "icons/az-logos/Chef2.svg",
     "icons/az-logos/Chef1.svg",
     "Notas Permanentes/Azure/Plataforma de Acesso/Command-line interface.md",
-    "Notas Permanentes/Azure/Arquitetura/Data Center.md",
-    "Notas Permanentes/Azure/Plataforma de Acesso/Portal.md",
     "Sem título.canvas"
   ]
 }

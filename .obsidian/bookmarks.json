@@ -8,6 +8,13 @@
           "type": "file",
           "ctime": 1706663155365,
           "path": "Notas Permanentes/Azure/Azure.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1706664705715,
+          "path": "Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
+          "subpath": "#Storage Account",
+          "title": "Storage Account"
         }
       ],
       "title": "Cloud"

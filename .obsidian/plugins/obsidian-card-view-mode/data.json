@@ -1,6 +1,6 @@
 {
-  "disabled": false,
-  "cardTitle": true,
+  "disabled": true,
+  "cardTitle": false,
   "cardCornerRadius": 10,
   "cardTitleCornerRadius": 5,
   "cardDropShadow": true,
