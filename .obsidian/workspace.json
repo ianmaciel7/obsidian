@@ -18,26 +18,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notas/Notas Permanentes/Azure/Azure.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3c1cb10040e5ea0f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+                    "file": "4. Notas Permanentes/Azure/Azure.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "79f87958f107209a",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md"
+                "file": "4. Notas Permanentes/Azure/Azure.md"
               }
             }
           },
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+                "file": "4. Notas Permanentes/Azure/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
+                "file": "4. Notas Permanentes/Azure/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,40 +251,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4122e7f420e31a06",
+  "active": "d24aa1cae4d35161",
   "lastOpenFiles": [
+    "4. Notas Permanentes/Azure/Sem título.md",
+    "1. Complementos/Notas Arquivadas/Microsoft Entra.md",
+    "1. Complementos/Notas Arquivadas/Arquitetura de Azure Infraestrutura.md",
+    "4. Notas Permanentes/Azure/Azure.md",
+    "1. Complementos/Notas Arquivadas/Serviços do Azure de Armazenamento.md",
+    "1. Complementos/Notas Arquivadas/Planos do Azure.md",
+    "1. Complementos/Notas Arquivadas/Hierarquia de Grupo de Gerenciamento.jpeg",
+    "1. Complementos/Notas Arquivadas/Hierarquia de Gerenciamento.png",
+    "1. Complementos/Notas Arquivadas/Boas Práticas para o Azure.md",
+    "1. Complementos/Notas Arquivadas/Arquitetura de Gerenciamento do Azure.md",
+    "1. Complementos/Notas Arquivadas",
+    "2. Notas Temporária",
     "Sem título 1",
-    "Docs",
+    "1. Complementos",
     "Notas",
-    "Notas/Notas Permanentes/Azure/Arquitetura de Azure Infraestrutura.md",
-    "Notas/Notas Permanentes/Azure/Serviços do Azure de Armazenamento.md",
-    "Notas/Notas Permanentes/Azure/Planos do Azure.md",
-    "Notas/Notas Permanentes/Azure/Microsoft Entra.md",
-    "Notas/Notas Permanentes/Azure/Azure.md",
-    "image/Hierarquia de Grupo de Gerenciamento.jpeg",
-    "image/Hierarquia de Gerenciamento.png",
-    "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md",
-    "image",
-    "Icons/az/APIManagementServices.svg",
-    "Icons/az/ABSMember.svg",
-    "Icons/az/Branch.svg",
-    "Icons/az/BotServices.svg",
-    "Icons/az/Blueprints.svg",
-    "Icons/az/BlobPage.svg",
-    "Icons/az/BlobBlock.svg",
-    "Icons/az/BizTalk.svg",
-    "Icons/az",
-    "Notas/Notas Permanentes/Azure/Boas Práticas para o Azure.md",
+    "@Complementos/image",
+    "1. Complementos/Icons/az/APIManagementServices.svg",
+    "1. Complementos/Icons/az/ABSMember.svg",
+    "1. Complementos/Icons/az/Branch.svg",
+    "1. Complementos/Icons/az/BotServices.svg",
+    "1. Complementos/Icons/az/Blueprints.svg",
+    "1. Complementos/Icons/az/BlobPage.svg",
+    "1. Complementos/Icons/az/BlobBlock.svg",
+    "1. Complementos/Icons/az/BizTalk.svg",
+    "1. Complementos/Icons/az",
     "[Azure Accounts.md",
     "[[Azure Accounts.md",
     "Azure Accounts.md",
-    "Icons/az-logo",
-    "Icons/font-awesome-brands.zip",
+    "1. Complementos/Icons/az-logo",
+    "1. Complementos/Icons/font-awesome-brands.zip",
     "notas-permanentes.md",
     "Notas Permanentes/Azure/Sem título",
     "Notas Permanentes/Azure/Plataforma de Acesso do Azure.md",
-    "Notas/Notas Permanentes/Azure",
-    "Templates/Notas Permanentes Template.md",
+    "1. Complementos/Templates/Notas Permanentes Template.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
     "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
@@ -305,12 +294,10 @@
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Flash Cards/Azure Flash Cards.md",
-    "Flash Cards",
     "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",
     "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Web Application Firewall.md",
     "hybrid-cloud 1.md",
-    "Notas Permanentes/Fundamentos Cloud",
     "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
     "Notas Permanentes/Azure/a/a.md",
     "Sem título.canvas"

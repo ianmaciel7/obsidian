@@ -2,13 +2,12 @@
   "version": "2.0",
   "layout": [
     [
-      null,
       null
     ],
     [
       {
         "type": "pinned",
-        "path": "Notas/Notas Permanentes/Azure/Arquitetura de Gerenciamento do Azure.md"
+        "path": "1. Complementos/Notas Arquivadas/Arquitetura de Gerenciamento do Azure.md"
       }
     ]
   ],
