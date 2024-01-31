@@ -16,7 +16,8 @@
     "linux": 2,
     "flashcard": 3,
     "Notas-Permanentes": 4,
-    "Azure": 5
+    "Azure": 5,
+    "notas-permanentes": 6
   },
   "_version": 3
 }

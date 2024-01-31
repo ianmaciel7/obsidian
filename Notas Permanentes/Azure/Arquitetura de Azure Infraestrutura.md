@@ -1,3 +1,4 @@
-
-# a 
-#Notas-Permanentes
+---
+tags:
+  - notas-permanentes
+---

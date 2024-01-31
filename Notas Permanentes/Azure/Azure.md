@@ -1,6 +1,9 @@
 ---
 tags:
-  - Notas-Permanentes
+  - notas-permanentes
+aliases:
+  - "#notas-permanentes"
+cssclasses:
 ---
 
 %% Begin Waypoint %%
