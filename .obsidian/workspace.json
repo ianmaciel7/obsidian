@@ -19,8 +19,12 @@
             "id": "556d092bd4fefd28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Notas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -33,27 +37,6 @@
     "id": "529c91deef2ef656",
     "type": "split",
     "children": [
-      {
-        "id": "60941a0c218aacaa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a766c377fd027af",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#Notas-Permanentes",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      },
       {
         "id": "3be8af9b5c4aa654",
         "type": "tabs",
@@ -69,14 +52,6 @@
             }
           },
           {
-            "id": "8cc5f1c817472284",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
-            }
-          },
-          {
             "id": "10c36e77d78618e5",
             "type": "leaf",
             "state": {
@@ -85,15 +60,25 @@
             }
           },
           {
-            "id": "1f8be42688d6be80",
+            "id": "2d0fbb3a5f86c3c9",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe6b30c294ac84e9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +91,68 @@
       {
         "id": "90e9f541be2834bc",
         "type": "tabs",
-        "dimension": 19.379844961240313,
+        "dimension": 36.76470588235295,
+        "children": [
+          {
+            "id": "6a766c377fd027af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " -tag:#cloud",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f8be42688d6be80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/Notas.md"
+              }
+            }
+          },
+          {
+            "id": "5085f66b2ad5503d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/Notas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bccabc935e16000",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/Notas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd8f03dec26fee27",
+        "type": "tabs",
+        "dimension": 63.23529411764705,
         "children": [
           {
             "id": "36106bdda9f47de9",
@@ -123,24 +169,13 @@
               "type": "git-history-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "75b8571a0d27cd84",
-        "type": "tabs",
-        "dimension": 47.286821705426355,
-        "children": [
+          },
           {
-            "id": "2d0fbb3a5f86c3c9",
+            "id": "0bcc582638a5df84",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "reference-map-view",
+              "state": {}
             }
           },
           {
@@ -159,30 +194,8 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "fd8f03dec26fee27",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "0bcc582638a5df84",
-            "type": "leaf",
-            "state": {
-              "type": "reference-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe6b30c294ac84e9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,6 +229,7 @@
   },
   "active": "556d092bd4fefd28",
   "lastOpenFiles": [
+    "templates/Notas.md",
     "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "Notas Permanentes/Azure/Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
@@ -224,7 +238,6 @@
     "Notas Permanentes/Azure/Azure.canvas",
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
-    "templates/Notas Permanentes.md",
     "Flash Cards/Azure Flash Cards.md",
     "Flash Cards",
     "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",

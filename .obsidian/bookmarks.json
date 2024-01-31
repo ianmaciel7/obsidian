@@ -2,25 +2,18 @@
   "items": [
     {
       "type": "group",
-      "ctime": 1706660825831,
-      "items": [
-        {
-          "type": "folder",
-          "ctime": 1706659875160,
-          "path": "Notas Permanentes/Azure",
-          "title": "Azure"
-        }
-      ],
-      "title": "AAA"
+      "ctime": 1706662698766,
+      "items": [],
+      "title": "Azure"
     },
     {
       "type": "group",
-      "ctime": 1706661556781,
+      "ctime": 1706662826895,
       "items": [
         {
           "type": "graph",
-          "ctime": 1706661550253,
-          "title": "Gráfico sem título",
+          "ctime": 1706662841182,
+          "title": "Notas Permanentes",
           "options": {
             "collapse-filter": false,
             "search": "",
@@ -65,14 +58,9 @@
             "scale": 1.0000000000000049,
             "close": false
           }
-        },
-        {
-          "type": "file",
-          "ctime": 1706661550253,
-          "path": "Notas Permanentes/Azure/Azure.canvas"
         }
       ],
-      "title": "FFFFFFFF"
+      "title": "Zettelkasten"
     }
   ]
 }
