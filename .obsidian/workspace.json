@@ -4,31 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "e779442fd677519d",
+        "id": "e253f561577b69ae",
         "type": "tabs",
         "children": [
           {
-            "id": "2334edf45673915a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "556d092bd4fefd28",
+            "id": "3befa01fe1a7bd2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Notas.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "mode": "source",
+                "source": false
+              }
+            },
+            "group": "6cc7fa25def4076a"
+          },
+          {
+            "id": "8dbce56338c47dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Permanentes/Azure/Azure.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "69ac38c865c7dd63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84d0929985c43c7c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notas Permanentes/Azure/Azure.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "6cc7fa25def4076a"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -38,19 +85,10 @@
     "type": "split",
     "children": [
       {
-        "id": "3be8af9b5c4aa654",
+        "id": "34bce83e7330cb8a",
         "type": "tabs",
+        "dimension": 35.56201550387597,
         "children": [
-          {
-            "id": "4122e7f420e31a06",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "10c36e77d78618e5",
             "type": "leaf",
@@ -67,6 +105,23 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3be8af9b5c4aa654",
+        "type": "tabs",
+        "dimension": 64.43798449612403,
+        "children": [
+          {
+            "id": "4122e7f420e31a06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -99,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " -tag:#cloud",
+                "query": "tag:Azure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Notas.md"
+                "file": "Notas Permanentes/Azure/Azure.md"
               }
             }
           },
@@ -124,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Notas.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,13 +196,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Notas.md",
+                "file": "Notas Permanentes/Azure/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "fd8f03dec26fee27",
@@ -227,11 +283,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "556d092bd4fefd28",
+  "active": "8dbce56338c47dac",
   "lastOpenFiles": [
-    "templates/Notas.md",
     "Notas Permanentes/Azure/Arquitetura do Azure.md",
     "Notas Permanentes/Azure/Azure.md",
+    "Notas Permanentes/Azure",
+    "templates/Notas Permanentes Template.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
     "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
@@ -245,7 +302,6 @@
     "Notas Permanentes/Azure/Serviços do Azure/Azure Web Application Firewall.md",
     "hybrid-cloud 1.md",
     "Notas Permanentes/Fundamentos Cloud",
-    "Notas Permanentes/Sem título.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure DevOps.md",
     "Notas Permanentes/Azure/Planos do Azure",
     "Notas Permanentes/Azure/a/a.md",
@@ -270,11 +326,9 @@
     "icons/az-logos/CLang.svg",
     "icons/az-logos/Chef2.svg",
     "icons/az-logos/Chef1.svg",
-    "icons/az-logos",
     "Notas Permanentes/Azure/Plataforma de Acesso/Command-line interface.md",
     "Notas Permanentes/Azure/Arquitetura/Data Center.md",
     "Notas Permanentes/Azure/Plataforma de Acesso/Portal.md",
-    "Notas Permanentes/Clould/Clould.md",
     "Sem título.canvas"
   ]
 }

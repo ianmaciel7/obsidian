@@ -15,7 +15,8 @@
     "cloud/file-sync": 2,
     "linux": 2,
     "flashcard": 3,
-    "Notas-Permanentes": 4
+    "Notas-Permanentes": 4,
+    "Azure": 5
   },
   "_version": 3
 }

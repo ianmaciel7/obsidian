@@ -3,63 +3,19 @@
     {
       "type": "group",
       "ctime": 1706662698766,
-      "items": [],
-      "title": "Azure"
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1706663155365,
+          "path": "Notas Permanentes/Azure/Azure.md"
+        }
+      ],
+      "title": "Cloud"
     },
     {
       "type": "group",
       "ctime": 1706662826895,
-      "items": [
-        {
-          "type": "graph",
-          "ctime": 1706662841182,
-          "title": "Notas Permanentes",
-          "options": {
-            "collapse-filter": false,
-            "search": "",
-            "showTags": true,
-            "showAttachments": false,
-            "hideUnresolved": false,
-            "showOrphans": true,
-            "collapse-color-groups": false,
-            "colorGroups": [
-              {
-                "query": "",
-                "color": {
-                  "a": 1,
-                  "rgb": 14048348
-                }
-              },
-              {
-                "query": "",
-                "color": {
-                  "a": 1,
-                  "rgb": 14069084
-                }
-              },
-              {
-                "query": "",
-                "color": {
-                  "a": 1,
-                  "rgb": 11392604
-                }
-              }
-            ],
-            "collapse-display": false,
-            "showArrow": true,
-            "textFadeMultiplier": 0,
-            "nodeSizeMultiplier": 1.21015625,
-            "lineSizeMultiplier": 1,
-            "collapse-forces": false,
-            "centerStrength": 0.518713248970312,
-            "repelStrength": 10,
-            "linkStrength": 1,
-            "linkDistance": 250,
-            "scale": 1.0000000000000049,
-            "close": false
-          }
-        }
-      ],
+      "items": [],
       "title": "Zettelkasten"
     }
   ]
