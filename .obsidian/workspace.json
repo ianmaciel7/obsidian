@@ -13,9 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Notas Permanentes/Azure Key Vault.md",
+                "file": "2. Notas Temporária/Notion/Notion Azure Key Vault.md",
                 "mode": "source",
-                "source": true
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -98,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:boas-práticas",
+                "query": "tag:notas-permanentes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Notas Permanentes/Azure Key Vault.md"
+                "file": "2. Notas Temporária/Notion/Notion Azure Key Vault.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Notas Permanentes/Azure Key Vault.md",
+                "file": "2. Notas Temporária/Notion/Notion Azure Key Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,13 +141,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Notas Permanentes/Azure Key Vault.md",
+                "file": "2. Notas Temporária/Notion/Notion Azure Key Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "fd8f03dec26fee27",
@@ -226,46 +228,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a766c377fd027af",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
+    "4. Notas Permanentes/Azure/Azure.md",
+    "1. Complementos/Ícones/azure/APIManagementServices.svg",
+    "1. Complementos/Ícones/azure/ABSMember.svg",
+    "1. Complementos/Ícones/azure/Branch.svg",
+    "1. Complementos/Ícones/azure/BotServices.svg",
+    "1. Complementos/Ícones/azure/Blueprints.svg",
+    "1. Complementos/Ícones/azure/BlobPage.svg",
+    "1. Complementos/Ícones/azure/BlobBlock.svg",
+    "1. Complementos/Ícones/azure/BizTalk.svg",
+    "1. Complementos/Ícones/azure/BatchAccounts.svg",
+    "1. Complementos/Ícones/azure/Backlog.svg",
+    "1. Complementos/Ícones/azure",
+    "1. Complementos/Ícones/logos",
+    "1. Complementos/Ícones/az",
+    "1. Complementos/Ícones/logo",
+    "Complementos/Icones/",
+    "Complementos/Icones",
+    "Complementos",
+    "2. Notas Temporária/Notion",
     "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
-    "4. Notas Permanentes/Azure Key Vault.md",
+    "2. Notas Temporária/Notion/Notion Azure Key Vault.md",
     "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "1. Complementos/Templates/Notas Permanentes Template.md",
     "2. Notas Temporária/Exam-Topics/31-01-2024.md",
     "2024-01-31.md",
-    "4. Notas Permanentes/Azure/Azure.md",
     "2. Notas Temporária/Exam-Topics",
     "4. Notas Permanentes/Azure/Sem título.md",
     "1. Complementos/Notas Arquivadas/Microsoft Entra.md",
     "1. Complementos/Notas Arquivadas/Arquitetura de Azure Infraestrutura.md",
     "1. Complementos/Notas Arquivadas/Serviços do Azure de Armazenamento.md",
     "1. Complementos/Notas Arquivadas/Planos do Azure.md",
-    "1. Complementos/Notas Arquivadas/Hierarquia de Grupo de Gerenciamento.jpeg",
-    "1. Complementos/Notas Arquivadas/Hierarquia de Gerenciamento.png",
     "1. Complementos/Notas Arquivadas/Boas Práticas para o Azure.md",
     "1. Complementos/Notas Arquivadas/Arquitetura de Gerenciamento do Azure.md",
     "1. Complementos/Notas Arquivadas",
-    "2. Notas Temporária",
-    "Sem título 1",
-    "1. Complementos",
-    "Notas",
-    "@Complementos/image",
-    "1. Complementos/Icons/az/APIManagementServices.svg",
-    "1. Complementos/Icons/az/ABSMember.svg",
-    "1. Complementos/Icons/az/Branch.svg",
-    "1. Complementos/Icons/az/BotServices.svg",
-    "1. Complementos/Icons/az/Blueprints.svg",
-    "1. Complementos/Icons/az/BlobPage.svg",
-    "1. Complementos/Icons/az/BlobBlock.svg",
-    "1. Complementos/Icons/az/BizTalk.svg",
-    "1. Complementos/Icons/az",
     "[Azure Accounts.md",
     "[[Azure Accounts.md",
     "Azure Accounts.md",
-    "1. Complementos/Icons/az-logo",
-    "1. Complementos/Icons/font-awesome-brands.zip",
     "notas-permanentes.md",
     "Notas Permanentes/Azure/Plataforma de Acesso do Azure.md",
     "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
@@ -274,7 +276,6 @@
     "Notas Permanentes/Azure/Azure.canvas",
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
-    "Flash Cards/Azure Flash Cards.md",
     "Sem título.canvas"
   ]
 }

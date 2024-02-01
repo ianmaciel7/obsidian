@@ -1,16 +1,16 @@
 {
   "settings": {
     "migrated": 4,
-    "iconPacksPath": "/Icons",
+    "iconPacksPath": "Complementos/Icones",
     "fontSize": 17,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LoAzureOffical",
       "AlAzureOffical",
       "Fab42Group",
       "AzAzureOffical",
-      "FabApplePay",
-      "CuAzureActiveDirectory"
+      "FabApplePay"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,5 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "4. Notas Permanentes/Azure": "AlAzureOffical"
+  "4. Notas Permanentes/Azure": "LoAzureOffical"
 }
