@@ -21,7 +21,10 @@
     "notas-temporárias": 7,
     "TLS": 8,
     "SLL": 9,
-    "azure": 10
+    "azure": 10,
+    "boas-práticas": 11,
+    "Boas": 12,
+    "Boas-práticas": 13
   },
   "_version": 3
 }

@@ -7,11 +7,10 @@ aliases:
   - Key Vault
 ---
 # Sobre
-O Azure Key Vault é serviço de nuvem para armazenar e acessar segredos[^1] de maneira segura.
+O Azure Key Vault é um serviço de nuvem projetado para o armazenamento seguro e acesso confiável a segredos[^1]. Este serviço é altamente versátil, podendo ser utilizado em diversos contextos, como em aplicativos web, funções (functions) e outros serviços, tanto dentro do ecossistema Azure quanto externamente a ele.
 
-# Recomendações
+# Boas Práticas
 * é recomendo fazer a rotação automática do @Account Access Keys usando @Azure Key Vault / Cofre de Chave  
 
 
-
-[^1]: é qualquer coisa a qual você queira controlar rigidamente o acesso.
+[^1]: é qualquer coisa a qual você queira controlar rigidamente o acesso como Chaves de API como: senhas, certificados, chaves criptográficas, credenciais administrativas e etc..

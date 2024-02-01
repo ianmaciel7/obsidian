@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notas-permanentes",
+                "query": "tag:boas-práticas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,7 +226,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d24aa1cae4d35161",
+  "active": "6a766c377fd027af",
   "lastOpenFiles": [
     "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
     "4. Notas Permanentes/Azure Key Vault.md",
