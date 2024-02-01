@@ -17,5 +17,8 @@ tags:
 	* Exceção disso são próprios domínios do azure conhecido `nomedosite.azurewebsites.com.net`
 10. Sempre antes de criar o `az webapp` precisa criar `az appservice plan create`
 11. para criar webapp  a partir dokerfile devemos primeiro criar as variaveis de ambiente depois criamos webapp e depois configuramos dokerfile e só depois o host
-12. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
+12. Function no Plano Premium (evita qualquer inicialização a frio  e Plano de Consumo  n suporta VNet,Uma identidade atribuída pelo sistema está vinculada ao seu aplicativo e será excluída se o seu aplicativo for excluído
+13. 
+14. 
+15. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
 	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de necesitar de grande de eventos   
