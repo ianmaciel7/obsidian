@@ -1,3 +1,8 @@
+---
+tags:
+  - azure
+---
+
 1. Para redeploy de VMs sempre usar Redeploy blade
 2. Para Armazenar certificados, senha ou qualquer dado sensível use Azure Key Vault
 	* Use Policy Access para criar restrições para acesso a os dados sensíveis
@@ -7,8 +12,9 @@
 6. quando falamos de `platformFaultDomainCount` no ARM. O número de domínios de falha para conjuntos de disponibilidade gerenciados varia de acordo com a região – dois ou três por região.
 7. O limite superior de `platformUpdateDomainCount` é 20
 8. Plano de consumo reduzirá o custo total operação caso a hospedagem caso não precise ficar ligada o tempo todo.                                                                                                                                                                                                                                                                             O SendGrid é serviço de envio de email. Existem dois tipo de modelo para Azure Functions sendo eles  SendGrid Action sendo síncrono e Biding SendGrid sendo assíncrono. Um exemplo da diferença entre os dois seria caso optasse pelo modelo sincrono seria o bloqueio da execução do aplicativo de funções até que o email fosse enviado, já o modelo assíncrono não haveria bloqueio 
+9. 
 
 
 
-1. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
+10. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
 	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de necesitar de grande de eventos   

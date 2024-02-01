@@ -1,8 +1,7 @@
 ---
 tags:
   - notas-permanentes
-aliases:
-  - "#notas-permanentes"
+aliases: []
 cssclasses:
 ---
 
