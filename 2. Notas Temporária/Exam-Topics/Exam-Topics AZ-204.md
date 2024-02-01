@@ -12,9 +12,10 @@ tags:
 6. quando falamos de `platformFaultDomainCount` no ARM. O número de domínios de falha para conjuntos de disponibilidade gerenciados varia de acordo com a região – dois ou três por região.
 7. O limite superior de `platformUpdateDomainCount` é 20
 8. Plano de consumo reduzirá o custo total operação caso a hospedagem caso não precise ficar ligada o tempo todo.                                                                                                                                                                                                                                                                             O SendGrid é serviço de envio de email. Existem dois tipo de modelo para Azure Functions sendo eles  SendGrid Action sendo síncrono e Biding SendGrid sendo assíncrono. Um exemplo da diferença entre os dois seria caso optasse pelo modelo sincrono seria o bloqueio da execução do aplicativo de funções até que o email fosse enviado, já o modelo assíncrono não haveria bloqueio 
-9. 
-
-
-
-10. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
+9. Os domínios customizados precisão de certificado TLS que é passado via HTTP Request Header em Base64
+	* Além disso precisa de uma configuração na propria aplicação
+	* Exceção disso são próprios domínios do azure conhecido `nomedosite.azurewebsites.com.net`
+10. Sempre antes de criar o `az webapp` precisa criar `az appservice plan create`
+11. 
+12. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
 	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de necesitar de grande de eventos   
