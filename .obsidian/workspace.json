@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
+                "file": "4. Notas Permanentes/Azure Key Vault.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md"
+                "file": "4. Notas Permanentes/Azure Key Vault.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
+                "file": "4. Notas Permanentes/Azure Key Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
+                "file": "4. Notas Permanentes/Azure Key Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +226,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a766c377fd027af",
+  "active": "d24aa1cae4d35161",
   "lastOpenFiles": [
-    "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
+    "4. Notas Permanentes/Azure Key Vault.md",
+    "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "1. Complementos/Templates/Notas Permanentes Template.md",
     "2. Notas Temporária/Exam-Topics/31-01-2024.md",
@@ -274,7 +275,6 @@
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
     "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Flash Cards/Azure Flash Cards.md",
-    "Notas Permanentes/Fundamentos Cloud/Hybrid-cloud.md",
     "Sem título.canvas"
   ]
 }

@@ -20,7 +20,8 @@
     "notas-permanentes": 6,
     "notas-temporárias": 7,
     "TLS": 8,
-    "SLL": 9
+    "SLL": 9,
+    "azure": 10
   },
   "_version": 3
 }
