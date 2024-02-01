@@ -6,6 +6,9 @@
 5. 
 6. quando falamos de `platformFaultDomainCount` no ARM. O número de domínios de falha para conjuntos de disponibilidade gerenciados varia de acordo com a região – dois ou três por região.
 7. O limite superior de `platformUpdateDomainCount` é 20
-8. plano de consumo reduzirá o custo e
-9. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
-	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de nessitar de grande de eventos   
+8. Plano de consumo reduzirá o custo total operação caso a hospedagem não precise ficar ligada o tempo todo. O SendGrid serviço de envio de email. Existem dois tipo de  SendGrid Action e Biding SendGrid esta em seu modelo de comunicação. O Action atua com comunicação síncrona enquanto Biding SendGrid é usada para assíncrona
+
+
+
+1. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
+	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de necesitar de grande de eventos   
