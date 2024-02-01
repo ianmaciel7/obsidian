@@ -1,7 +1,8 @@
 ---
 tags:
   - notas-permanentes
-aliases: []
+  - azure
+aliases: 
 cssclasses:
 ---
 
