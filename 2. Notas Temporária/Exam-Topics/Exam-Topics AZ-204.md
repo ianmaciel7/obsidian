@@ -23,6 +23,8 @@ tags:
 15. 
 16. para lidar azure functions que ultrapassam o tempo limite a melhor solução é Durable Function async pattern
 17. 
-18. 
-19. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
+18. Independentemente da configuração de tempo limite do aplicativo de funções, 230 segundos é o tempo máximo que uma função disparada por HTTP pode levar para responder a um pedido
+19. a
+20. o feed de alterações fornece logs de transações de todas as alterações que ocorrem nos blobs e nos metadados de blob em sua conta de armazenamento.
+21. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
 	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de necesitar de grande de eventos   
