@@ -26,5 +26,7 @@ tags:
 18. Independentemente da configuração de tempo limite do aplicativo de funções, 230 segundos é o tempo máximo que uma função disparada por HTTP pode levar para responder a um pedido
 19. a
 20. o feed de alterações fornece logs de transações de todas as alterações que ocorrem nos blobs e nos metadados de blob em sua conta de armazenamento.
-21. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
+21. A primeira instrução no Dockefile deve ser a instrução FROM para especificar a imagem a ser usada como imagem base. Em seguida, especifique o diretório de trabalho da imagem. Em seguida, copie todo o conteúdo do aplicativo usando o comando COPY. Em seguida, use o comando CMD para executar o comando PowerShell e a instrução ENTRYPOINT para executar o aplicativo dotnet.
+22. Para este cenário em que as imagens devem ser processadas o mais rápido possível e a latência deve ser minimizada, recomenda-se para azure functions usar o plano de Serviço de Aplicativo em vez do plano de Consumo.
+23. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
 	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de necesitar de grande de eventos   
