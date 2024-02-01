@@ -6,7 +6,7 @@
 5. 
 6. quando falamos de `platformFaultDomainCount` no ARM. O número de domínios de falha para conjuntos de disponibilidade gerenciados varia de acordo com a região – dois ou três por região.
 7. O limite superior de `platformUpdateDomainCount` é 20
-8. Plano de consumo reduzirá o custo total operação caso a hospedagem não precise ficar ligada o tempo todo. O SendGrid serviço de envio de email. Existem dois tipo de  SendGrid Action e Biding SendGrid esta em seu modelo de comunicação. O Action atua com comunicação síncrona enquanto Biding SendGrid é usada para assíncrona
+8. Plano de consumo reduzirá o custo total operação caso a hospedagem caso não precise ficar ligada o tempo todo.                                                                                                                                                                                                                                                                             O SendGrid é serviço de envio de email. Existem dois tipo de modelo para Azure Functions sendo eles  SendGrid Action sendo síncrono e Biding SendGrid sendo assíncrono. Um exemplo da diferença entre os dois seria caso optasse pelo modelo sincrono seria o bloqueio da execução do aplicativo de funções até que o email fosse enviado, já o modelo assíncrono não haveria bloqueio 
 
 
 
