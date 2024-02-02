@@ -128,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Notas Permanentes/Azure/Azure.md"
+              }
             }
           },
           {
@@ -137,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Notas Permanentes/Azure/Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Notas Permanentes/Azure/Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
