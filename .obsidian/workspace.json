@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c1661a4beba8f6c2",
+        "id": "9d8e972e90848e49",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0d64ad23253905",
+            "id": "1e4479dfde5240de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Home/Azure/Notion - Azure Key Vault.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/Azure"
               }
             }
           }
@@ -31,7 +29,6 @@
       {
         "id": "34bce83e7330cb8a",
         "type": "tabs",
-        "dimension": 35.56201550387597,
         "children": [
           {
             "id": "10c36e77d78618e5",
@@ -59,15 +56,7 @@
               "type": "mk-path-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "3be8af9b5c4aa654",
-        "type": "tabs",
-        "dimension": 64.43798449612403,
-        "children": [
+          },
           {
             "id": "4122e7f420e31a06",
             "type": "leaf",
@@ -78,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Azure/Notion - Azure Key Vault.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Azure/Notion - Azure Key Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Azure/Notion - Azure Key Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,15 +193,20 @@
       "markdown-importer:Abrir importador Markdown": true
     }
   },
-  "active": "1f0d64ad23253905",
+  "active": "1e4479dfde5240de",
   "lastOpenFiles": [
+    "Spaces/Home/Azure/Sem título.md",
+    "Spaces/Home/Azure/Azure.md",
+    "Spaces/Home/Azure/Notas Temporárias/Sem título.md",
+    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
+    "Spaces/Home/Notas Temporárias",
     "Spaces/Home/Azure/aaa.md",
     "Spaces/Home",
     "Spaces/Home/t/ffffffffff.md",
     "Spaces/Home/t/t.md",
     "Spaces/Home/t",
-    "Spaces/Home/Azure/Azure.md",
-    "Spaces/Home/Azure/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Azure",
     "Spaces/Azure/Azure 1.md",
     "Spaces/Azure/Azure",
@@ -228,7 +219,6 @@
     "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL",
     "Spaces/Azure/Sem título/Sem título.md",
     "Spaces/Azure/Sem título/Sem título",
-    "Spaces/Azure/Sem título",
     "Spaces/Azure/Azure 2/Azure 2.md",
     "Spaces/Home/aaa/aaa.md",
     "Spaces/Home/azure/ABSMember.svg",
@@ -241,8 +231,6 @@
     "Complementos/Ícones/azure/BlobBlock.svg",
     "Complementos/Ícones/azure/BizTalk.svg",
     "Complementos/Ícones/azure/BatchAccounts.svg",
-    "Spaces/Home/Azure/Exam-Topics AZ-204.md",
-    "Spaces/Home/Azure/Notion - Azure Key Vault.md",
     "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "1. Complementos/Templates/Notas Permanentes Template.md",
     "2. Notas Temporária/Exam-Topics/31-01-2024.md",
@@ -253,7 +241,6 @@
     "1. Complementos/Notas Arquivadas/Serviços do Azure de Armazenamento.md",
     "1. Complementos/Notas Arquivadas/Planos do Azure.md",
     "1. Complementos/Notas Arquivadas/Boas Práticas para o Azure.md",
-    "1. Complementos/Notas Arquivadas/Arquitetura de Gerenciamento do Azure.md",
     "Notas Permanentes/Azure/Azure.canvas",
     "Sem título.canvas"
   ]
