@@ -2,7 +2,6 @@
 tags:
   - azure
   - notas-temporárias
-  - vm
 ---
 ![![Spaces/Home/Notas Temporárias/#^Table1]]
 
