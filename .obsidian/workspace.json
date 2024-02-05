@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9d8e972e90848e49",
+        "id": "7e6f92fdf837d703",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4479dfde5240de",
+            "id": "80fffc52f3506ef4",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Azure"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -193,14 +191,22 @@
       "markdown-importer:Abrir importador Markdown": true
     }
   },
-  "active": "1e4479dfde5240de",
+  "active": "80fffc52f3506ef4",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
+    "Spaces/#notas-temporárias/#notas-temporárias.md",
+    "undefined 1.md",
+    "Spaces/#notas-temporárias",
+    "Sem título 1.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/#azure/#azure.md",
+    "undefined.md",
+    "Spaces/#azure",
+    "Sem título.md",
     "Spaces/Home/Azure/Sem título.md",
     "Spaces/Home/Azure/Azure.md",
     "Spaces/Home/Azure/Notas Temporárias/Sem título.md",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
-    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
-    "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
     "Spaces/Home/Notas Temporárias",
     "Spaces/Home/Azure/aaa.md",
     "Spaces/Home",
@@ -216,9 +222,7 @@
     "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "4. Notas Permanentes/Azure/Azure.md",
     "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL/O que é TLS e quais são as diferenças entre ele e SSL",
-    "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL",
     "Spaces/Azure/Sem título/Sem título.md",
-    "Spaces/Azure/Sem título/Sem título",
     "Spaces/Azure/Azure 2/Azure 2.md",
     "Spaces/Home/aaa/aaa.md",
     "Spaces/Home/azure/ABSMember.svg",
@@ -235,12 +239,6 @@
     "1. Complementos/Templates/Notas Permanentes Template.md",
     "2. Notas Temporária/Exam-Topics/31-01-2024.md",
     "2024-01-31.md",
-    "4. Notas Permanentes/Azure/Sem título.md",
-    "1. Complementos/Notas Arquivadas/Microsoft Entra.md",
-    "1. Complementos/Notas Arquivadas/Arquitetura de Azure Infraestrutura.md",
-    "1. Complementos/Notas Arquivadas/Serviços do Azure de Armazenamento.md",
-    "1. Complementos/Notas Arquivadas/Planos do Azure.md",
-    "1. Complementos/Notas Arquivadas/Boas Práticas para o Azure.md",
     "Notas Permanentes/Azure/Azure.canvas",
     "Sem título.canvas"
   ]
