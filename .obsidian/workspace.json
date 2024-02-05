@@ -67,8 +67,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "acaba1a69a71bb5c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3be8af9b5c4aa654",
@@ -243,35 +252,37 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b9f4f42d41cc2a79",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
+    "Complementos/Ícones/azure/APIManagementServices.svg",
+    "Complementos/Ícones/azure/ABSMember.svg",
+    "Complementos/Ícones/azure/Branch.svg",
+    "Complementos/Ícones/azure/BotServices.svg",
+    "Complementos/Ícones/azure/Blueprints.svg",
+    "Complementos/Ícones/azure/BlobPage.svg",
+    "Complementos/Ícones/azure/BlobBlock.svg",
+    "Complementos/Ícones/azure/BizTalk.svg",
+    "Complementos/Ícones/azure/BatchAccounts.svg",
+    "Complementos/Ícones/azure/Backlog.svg",
+    "Complementos/Ícones/azure/AzureWorkbooks.svg",
+    "Complementos/Ícones/azure",
+    "Complementos/Ícones/az",
+    "Complementos/Ícones/logos",
+    "Complementos/Ícones/",
+    "Complementos/Ícones",
+    "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "4. Notas Permanentes/Azure/Azure.md",
+    "Spaces/Home",
+    "Spaces",
     "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
     "2. Notas Temporária/Notion/Notion - Azure Key Vault.md",
-    "1. Complementos/Ícones/azure/APIManagementServices.svg",
-    "1. Complementos/Ícones/azure/ABSMember.svg",
-    "1. Complementos/Ícones/azure/Branch.svg",
-    "1. Complementos/Ícones/azure/BotServices.svg",
-    "1. Complementos/Ícones/azure/Blueprints.svg",
-    "1. Complementos/Ícones/azure/BlobPage.svg",
-    "1. Complementos/Ícones/azure/BlobBlock.svg",
-    "1. Complementos/Ícones/azure/BizTalk.svg",
-    "1. Complementos/Ícones/azure/BatchAccounts.svg",
-    "1. Complementos/Ícones/azure/Backlog.svg",
     "1. Complementos/Ícones/azure",
     "1. Complementos/Ícones/logos",
     "1. Complementos/Ícones/az",
-    "1. Complementos/Ícones/logo",
-    "Complementos/Icones/",
-    "Complementos/Icones",
-    "Complementos",
-    "2. Notas Temporária/Notion",
-    "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "1. Complementos/Templates/Notas Permanentes Template.md",
     "2. Notas Temporária/Exam-Topics/31-01-2024.md",
     "2024-01-31.md",
-    "2. Notas Temporária/Exam-Topics",
     "4. Notas Permanentes/Azure/Sem título.md",
     "1. Complementos/Notas Arquivadas/Microsoft Entra.md",
     "1. Complementos/Notas Arquivadas/Arquitetura de Azure Infraestrutura.md",
@@ -279,7 +290,6 @@
     "1. Complementos/Notas Arquivadas/Planos do Azure.md",
     "1. Complementos/Notas Arquivadas/Boas Práticas para o Azure.md",
     "1. Complementos/Notas Arquivadas/Arquitetura de Gerenciamento do Azure.md",
-    "1. Complementos/Notas Arquivadas",
     "[Azure Accounts.md",
     "[[Azure Accounts.md",
     "Azure Accounts.md",

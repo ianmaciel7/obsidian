@@ -52,5 +52,6 @@
   "multi-properties",
   "better-fn",
   "influx",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "make-md"
 ]
