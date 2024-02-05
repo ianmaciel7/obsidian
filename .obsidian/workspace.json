@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4100f004f74ad3e2",
+        "id": "c1661a4beba8f6c2",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f4f42d41cc2a79",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "347bd583572393bc",
+            "id": "1f0d64ad23253905",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Azure/Sem título"
+                "file": "Spaces/Azure/O que é  .md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,14 +77,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "fe6b30c294ac84e9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -130,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Azure/O que é  .md"
+              }
             }
           },
           {
@@ -139,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Azure/O que é  .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Azure/O que é  .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,22 +186,6 @@
               "type": "reference-map-view",
               "state": {}
             }
-          },
-          {
-            "id": "3170bc710a9eb86d",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "64adee3f4355bcea",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -225,8 +196,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Revisar flashcards": false,
-      "juggl:Juggl global graph": false,
       "zk-prefixer:Criar nova nota única": true,
       "switcher:Abrir a troca rápida": true,
       "graph:Abrir visualização em gráfico": false,
@@ -235,30 +204,27 @@
       "templates:Inserir modelo": true,
       "command-palette:Abrir paleta de comandos": true,
       "workspaces:Gerenciar leiautes da área de trabalho": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
-      "markdown-importer:Abrir importador Markdown": true,
-      "templater-obsidian:Templater": true,
-      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false,
-      "quick-tagger:Add tag to current note": true,
-      "quick-tagger:Remove tag from current note": true,
-      "float-search:Search Obsidian In Modal": false,
-      "reference-map:Reference Map": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obisidian-note-linker:Note Linker": false,
-      "homepage:Open homepage": false
+      "markdown-importer:Abrir importador Markdown": true
     }
   },
-  "active": "347bd583572393bc",
+  "active": "1f0d64ad23253905",
   "lastOpenFiles": [
+    "Spaces/Azure/Azure.md",
+    "Spaces/Azure/O que é  .md",
+    "Spaces/Azure/Azure 1.md",
+    "Spaces/Azure/Azure",
+    "Spaces/Azure",
+    "Spaces/Azure/Azure/Azure.md",
+    "Spaces/Azure/Azure/Azure",
+    "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "4. Notas Permanentes/Azure/Azure.md",
+    "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL/O que é TLS e quais são as diferenças entre ele e SSL",
+    "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL",
     "Spaces/Azure/Sem título/Sem título.md",
     "Spaces/Azure/Sem título/Sem título",
     "Spaces/Azure/Sem título",
-    "4. Notas Permanentes/Azure/Azure.md",
-    "Spaces/Azure",
     "Spaces/Azure/Azure 2/Azure 2.md",
     "Spaces/Azure/Azure 2",
-    "Spaces/Azure",
     "Spaces/Home/aaa/aaa.md",
     "Spaces/Home/aaa",
     "Spaces/Home/azure/ABSMember.svg",
@@ -271,11 +237,6 @@
     "Complementos/Ícones/azure/BlobBlock.svg",
     "Complementos/Ícones/azure/BizTalk.svg",
     "Complementos/Ícones/azure/BatchAccounts.svg",
-    "Complementos/Ícones/azure",
-    "Complementos/Ícones/az",
-    "Complementos/Ícones/logos",
-    "Complementos/Ícones/",
-    "2. Notas Temporária/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
     "2. Notas Temporária/Notion/Notion - Azure Key Vault.md",
     "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
@@ -293,9 +254,6 @@
     "[[Azure Accounts.md",
     "Azure Accounts.md",
     "notas-permanentes.md",
-    "Notas Permanentes/Azure/Plataforma de Acesso do Azure.md",
-    "Notas Permanentes/Azure/Serviços do Azure/Azure Resource Manager (ARM).md",
-    "Notas Permanentes/Azure/Serviços do Azure/Azure File Sync.md",
     "Notas Permanentes/Azure/Azure.canvas",
     "Sem título.canvas"
   ]
