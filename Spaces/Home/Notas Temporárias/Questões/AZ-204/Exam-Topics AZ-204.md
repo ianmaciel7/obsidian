@@ -2,7 +2,8 @@
 tags:
   - azure
   - notas-temporárias
+  - exam-topics
 aliases:
-  - "Exam-Topics: AZ-204"
+  - "AZ-204 Exam-Topics: Tópico 1"
 ---
 ![![Spaces/Home/Notas Temporárias/#^Table1]]

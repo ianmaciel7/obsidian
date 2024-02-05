@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam-Topics AZ-204.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam-Topics AZ-204.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam-Topics AZ-204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam-Topics AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,11 @@
   },
   "active": "924d78fd075a4056",
   "lastOpenFiles": [
-    "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam-Topics AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204",
+    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
+    "Spaces/Home/Notas Temporárias/Questões",
     "Spaces/Home/Notas Temporárias/zzz.md",
     "Spaces/#azure/#azure.md",
     "Spaces/#notas-temporárias/#notas-temporárias.md",
@@ -239,13 +243,10 @@
     "Spaces/Azure/Azure",
     "Spaces/Home/Azure",
     "Spaces/Azure/Azure/Azure.md",
-    "Spaces/Azure/Azure/Azure",
     "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "4. Notas Permanentes/Azure/Azure.md",
-    "Spaces/Azure/O que é TLS e quais são as diferenças entre ele e SSL/O que é TLS e quais são as diferenças entre ele e SSL",
     "Spaces/Azure/Sem título/Sem título.md",
     "Spaces/Azure/Azure 2/Azure 2.md",
-    "Spaces/Home/aaa/aaa.md",
     "Spaces/Home/azure/ABSMember.svg",
     "Complementos/Ícones/azure/APIManagementServices.svg",
     "Complementos/Ícones/azure/ABSMember.svg",
@@ -256,7 +257,6 @@
     "Complementos/Ícones/azure/BlobBlock.svg",
     "Complementos/Ícones/azure/BizTalk.svg",
     "Complementos/Ícones/azure/BatchAccounts.svg",
-    "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "Notas Permanentes/Azure/Azure.canvas",
     "Sem título.canvas"
   ]
