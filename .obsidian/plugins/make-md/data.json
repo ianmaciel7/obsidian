@@ -10,7 +10,7 @@
   "inlineStyler": true,
   "makerMode": true,
   "spacesMDBInHidden": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
@@ -35,8 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "Spaces/Home/Spaces/Home/aaa"
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -81,7 +80,7 @@
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,
-  "minimalFix": false,
+  "minimalFix": true,
   "experimental": false,
   "systemName": "Vault"
 }

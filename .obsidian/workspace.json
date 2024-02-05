@@ -21,9 +21,11 @@
             "id": "347bd583572393bc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/aaa"
+                "file": "Spaces/Home/Sem título.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Sem título.md"
+              }
             }
           },
           {
@@ -139,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,10 +249,11 @@
   },
   "active": "347bd583572393bc",
   "lastOpenFiles": [
+    "Spaces/Home/Sem título.md",
     "Spaces/Home/aaa/aaa.md",
     "4. Notas Permanentes/Azure/Azure.md",
     "Spaces/Home/aaa",
-    "1. Complementos/Ícones/azure/ABSMember.svg",
+    "Spaces/Home/azure/ABSMember.svg",
     "Complementos/Ícones/azure/APIManagementServices.svg",
     "Complementos/Ícones/azure/ABSMember.svg",
     "Complementos/Ícones/azure/Branch.svg",
@@ -266,7 +273,7 @@
     "Spaces",
     "2. Notas Temporária/Exam-Topics/Exam-Topics AZ-204.md",
     "2. Notas Temporária/Notion/Notion - Azure Key Vault.md",
-    "1. Complementos/Ícones/azure",
+    "Spaces/Home/azure",
     "1. Complementos/Ícones/logos",
     "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "1. Complementos/Templates/Notas Permanentes Template.md",
@@ -289,7 +296,6 @@
     "Notas Permanentes/Azure/Planos do Azure/Azure DDos Protection Plan.md",
     "Notas Permanentes/Azure/Azure.canvas",
     "Notas Permanentes/Azure/Serviços do Azure/Serviços do Azure.md",
-    "Notas Permanentes/Azure/Planos do Azure/Planos do Azure.md",
     "Sem título.canvas"
   ]
 }
