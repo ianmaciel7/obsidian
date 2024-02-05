@@ -17,8 +17,8 @@
   "spaceViewEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
-  "autoOpenFileContext": false,
-  "activeView": "spaces://$tags",
+  "autoOpenFileContext": true,
+  "activeView": "Spaces/Home",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "dd MMM yyyy",
@@ -36,7 +36,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "Spaces/Home/Spaces/Home/azure"
+    "Spaces/Home/Spaces/Home/azure",
+    "Spaces/Azure/Spaces/Azure/Azure",
+    "Spaces/Azure/Spaces/Azure/Azure",
+    "Spaces/Home/Spaces/Home/Azure"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -60,9 +63,9 @@
     "/",
     "spaces://$tags",
     "Complementos/Ícones/azure",
-    "Spaces/Azure"
+    "Spaces/Home/Azure"
   ],
-  "spacesUseAlias": false,
+  "spacesUseAlias": true,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
   "fmKeyColor": "color",
