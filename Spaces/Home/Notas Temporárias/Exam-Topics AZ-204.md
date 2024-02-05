@@ -31,3 +31,5 @@ tags:
 22. Para este cenário em que as imagens devem ser processadas o mais rápido possível e a latência deve ser minimizada, recomenda-se para azure functions usar o plano de Serviço de Aplicativo em vez do plano de Consumo.
 23. Sempre usar Grande de Eventos quando queremos captar um disparo de um evento contido no azure
 	* termos <mark style="background: #FFF3A3A6;">'menos de um minuto'</mark> ou <mark style="background: #FFB8EBA6;">'baixa latência'</mark> refletem um grande possibilidade de necesitar de grande de eventos   
+
+

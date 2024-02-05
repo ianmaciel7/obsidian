@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e6f92fdf837d703",
+        "id": "250942124e8050f9",
         "type": "tabs",
         "children": [
           {
-            "id": "80fffc52f3506ef4",
+            "id": "67159aa8559ebd08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md"
+              }
             }
           },
           {
@@ -110,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,14 +199,17 @@
       "markdown-importer:Abrir importador Markdown": true
     }
   },
-  "active": "80fffc52f3506ef4",
+  "active": "67159aa8559ebd08",
   "lastOpenFiles": [
     "Spaces/Home/Notas Temporárias/Exam-Topics AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+    "().md",
     "Spaces/#notas-temporárias/#notas-temporárias.md",
     "undefined 1.md",
     "Spaces/#notas-temporárias",
     "Sem título 1.md",
-    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/#azure/#azure.md",
     "undefined.md",
     "Spaces/#azure",
@@ -206,7 +217,6 @@
     "Spaces/Home/Azure/Sem título.md",
     "Spaces/Home/Azure/Azure.md",
     "Spaces/Home/Azure/Notas Temporárias/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias",
     "Spaces/Home/Azure/aaa.md",
     "Spaces/Home",
@@ -237,8 +247,6 @@
     "Complementos/Ícones/azure/BatchAccounts.svg",
     "2. Notas Temporária/Hospedagem aprenda neste guia completo a escolher a melhor para o seu site.md",
     "1. Complementos/Templates/Notas Permanentes Template.md",
-    "2. Notas Temporária/Exam-Topics/31-01-2024.md",
-    "2024-01-31.md",
     "Notas Permanentes/Azure/Azure.canvas",
     "Sem título.canvas"
   ]
