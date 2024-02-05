@@ -3,7 +3,7 @@ tags:
   - azure
   - notas-temporárias
 ---
-
+![![Spaces/Home/Notas Temporárias/#^Table]]
 1. Para redeploy de VMs sempre usar Redeploy blade
 2. Para Armazenar certificados, senha ou qualquer dado sensível use Azure Key Vault
 	* Use Policy Access para criar restrições para acesso a os dados sensíveis
