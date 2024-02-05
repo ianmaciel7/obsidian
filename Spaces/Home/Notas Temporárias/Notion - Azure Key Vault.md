@@ -16,7 +16,7 @@ aliases:
 * Permission model vault / Modelo de permissão do cofre 
 	* tem Access Policies Vault / Política de acesso
 		* Uma política de acesso ao Key Vault determina se uma determinado entidade de segurança, ou seja, um usuário, aplicativo ou grupo de usuários, pode executar diferentes operações em chaves, segredos e certificados.
-		*
+	
 		
 
 
