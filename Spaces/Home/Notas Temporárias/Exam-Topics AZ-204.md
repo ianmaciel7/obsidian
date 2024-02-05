@@ -2,9 +2,11 @@
 tags:
   - azure
   - notas-temporárias
+  - vm
 ---
-![![Spaces/Home/Notas Temporárias/#^Table]]
-1. Para redeploy de VMs sempre usar Redeploy blade
+![![Spaces/Home/Notas Temporárias/#^Table1]]
+
+1. 
 2. Para Armazenar certificados, senha ou qualquer dado sensível use Azure Key Vault
 	* Use Policy Access para criar restrições para acesso a os dados sensíveis
 3. para implantar o arquivo de manifesto YAML para o aplicativo em AKS use o comando ` kubectl apply "f myapp.yaml.` para criar 

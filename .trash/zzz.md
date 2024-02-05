@@ -1,12 +1,9 @@
 ---
 _filters: []
-_contexts:
-  - "#notas-temporárias"
+_contexts: []
 _links: []
 _sort:
   field: rank
   asc: false
   group: false
-aliases:
-  - zzzz
 ---
