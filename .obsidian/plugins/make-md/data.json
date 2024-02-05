@@ -35,7 +35,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "Spaces/Home/Spaces/Home/aaa"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -70,7 +71,7 @@
   "fmKeyFilter": "_filters",
   "fmKeyLinks": "_links",
   "openSpacesOnLaunch": true,
-  "indexSVG": false,
+  "indexSVG": true,
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
