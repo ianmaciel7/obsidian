@@ -1,6 +1,5 @@
 ---
-Questão: 0
-Tópico: "0"
+up: "[[Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md]]"
 ---
 
 ![![Spaces/Home/Notas Temporárias/#^Table1]]

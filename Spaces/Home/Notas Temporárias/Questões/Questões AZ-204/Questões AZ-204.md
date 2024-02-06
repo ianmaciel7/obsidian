@@ -1,7 +1,7 @@
 ---
-_filters: 
+_filters: []
 _contexts: []
-_links: 
+_links: []
 _sort:
   field: rank
   asc: false

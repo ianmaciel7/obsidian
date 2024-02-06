@@ -139,12 +139,14 @@
     "spaces:",
     "/spaces:/",
     "Templates",
-    "/",
-    "Spaces",
-    "/Spaces/Home",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "//Spaces/Home/Notas Temporárias",
     "///Spaces/Home/Notas Temporárias/Questões",
-    "////Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
+    "////Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias",
+    "/",
+    "Spaces",
+    "/Spaces/Home"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

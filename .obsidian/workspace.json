@@ -4,11 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c067a664e2a310",
+        "id": "61d20f7ec304e07b",
         "type": "tabs",
         "children": [
           {
-            "id": "c370e29d50faf5d5",
+            "id": "95feba7c89160d07",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões"
+              }
+            }
+          },
+          {
+            "id": "c1db7f79218b9556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29a52a2582964916",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias"
+              }
+            }
+          },
+          {
+            "id": "3ca4a0ccbc271815",
             "type": "leaf",
             "state": {
               "type": "mk-space",
@@ -18,31 +50,51 @@
             }
           },
           {
-            "id": "448600e5f84536f9",
+            "id": "2a78ccbceb435541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79ccb5b6c7ad448d",
+            "id": "bb6a2b59863303a0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home"
+              }
+            }
+          },
+          {
+            "id": "b486a6d1d05af675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2805250d273e7f36",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -101,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,9 +198,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +207,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +223,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,28 +234,6 @@
             "state": {
               "type": "make-context-view",
               "state": {}
-            }
-          },
-          {
-            "id": "faff5cc2ca65f6bd",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md"
-              }
-            }
-          },
-          {
-            "id": "3890f279f83a4fbc",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
             }
           }
         ]
@@ -246,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5
+    "width": 726.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,17 +289,17 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "448600e5f84536f9",
+  "active": "2805250d273e7f36",
   "lastOpenFiles": [
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/antigo.md",
+    "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 2.md",
-    "Templates/Template Exam Topics.md",
-    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/antigo.md",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
-    "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
+    "Templates/Template Exam Topics.md",
     "notas tempoárias.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
     "Select Note.md",

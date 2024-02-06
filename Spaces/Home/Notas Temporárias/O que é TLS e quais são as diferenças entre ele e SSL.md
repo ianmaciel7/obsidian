@@ -1,3 +1,6 @@
+---
+up: "[[Spaces/Home/Notas Temporárias/Notas Temporárias.md]]"
+---
 
 
 [https://rockcontent.com/br/blog/tls/]()
