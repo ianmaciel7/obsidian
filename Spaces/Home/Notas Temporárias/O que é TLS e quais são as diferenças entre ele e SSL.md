@@ -1,7 +1,3 @@
----
-tags: []
-up: "[[Spaces/Home/Notas Temporárias]]"
----
 
 
 [https://rockcontent.com/br/blog/tls/]()

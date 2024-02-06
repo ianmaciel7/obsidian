@@ -1,9 +1,6 @@
 ---
 _filters: []
-_contexts:
-  - "#notas-temporárias"
-  - "#az-204"
-  - "#questões"
+_contexts: []
 _links: []
 _sort:
   field: rank

@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e6e66d50bbcb50",
+        "id": "b5c067a664e2a310",
         "type": "tabs",
         "children": [
           {
-            "id": "6b5ddaf5158ac50c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões"
-              }
-            }
-          },
-          {
-            "id": "cccc7e2287ed6103",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões"
-              }
-            }
-          },
-          {
-            "id": "c4d5c3b544b7aca8",
+            "id": "c370e29d50faf5d5",
             "type": "leaf",
             "state": {
               "type": "mk-space",
@@ -38,61 +18,31 @@
             }
           },
           {
-            "id": "26d34e7966e47be3",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões"
-              }
-            }
-          },
-          {
-            "id": "878b0222afc37d85",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias"
-              }
-            }
-          },
-          {
-            "id": "3e73b5187ce500db",
+            "id": "448600e5f84536f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ae5cd6fb8b814bd",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "62ff170e6d2312ea",
+            "id": "79ccb5b6c7ad448d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md"
               }
             }
           },
@@ -207,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md"
               }
             }
           },
@@ -313,20 +263,20 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "62ff170e6d2312ea",
+  "active": "448600e5f84536f9",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 2.md",
+    "Templates/Template Exam Topics.md",
     "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/antigo.md",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 2.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
     "notas tempoárias.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
     "Select Note.md",
-    "Templates/Template Exam Topics.md",
     "Spaces/#questões/#questões.md",
     "Spaces/#questões",
     "Spaces/Home/Notas Temporárias/Questões/Sem título.md",

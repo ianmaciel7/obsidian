@@ -1,13 +1,5 @@
 ---
-aliases: 
-Tópico: "0"
-Questão: 0
-tags:
-  - notas-temporárias
-  - questões
-  - az-204
-_links:
-  - "[[Questões AZ-204]]"
+up: "[[Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md]]"
 ---
 
 # Observação
