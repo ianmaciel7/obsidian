@@ -4,11 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5a55f0f27a6613a1",
+        "id": "0c80f732758f0d67",
         "type": "tabs",
         "children": [
           {
-            "id": "296fdeee934a9115",
+            "id": "919e4d47083531dd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
+              }
+            }
+          },
+          {
+            "id": "28ef09b9acfdc7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74b2a32ba972062f",
             "type": "leaf",
             "state": {
               "type": "mk-space",
@@ -18,81 +40,7 @@
             }
           },
           {
-            "id": "75116ef23103833b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84f9fa1c70f17453",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões"
-              }
-            }
-          },
-          {
-            "id": "81d6c3f8df0434f3",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias"
-              }
-            }
-          },
-          {
-            "id": "53496dca57bc9ccc",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "10e140f75d5e420d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template Exam Topics.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d49df9c93dc6affb",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias"
-              }
-            }
-          },
-          {
-            "id": "b073cca3de86f600",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "134f9dd52098495f",
+            "id": "87d067a5999ce7d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,107 +52,19 @@
             }
           },
           {
-            "id": "3e54a32462717962",
+            "id": "f2bc57c76b3359f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "13dde7e83be082da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17401c6e30a86b2b",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "345ef1da2d6dc7e9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "3af077d1f02c3f6a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "2b224814f70239e7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".trash/AZ-204 Exam-Topics Tópico 1.md",
-                "staged": false,
-                "hash": "062c90196039eaedd225b045d1533915d49eabca"
-              }
-            }
-          },
-          {
-            "id": "3e65c643fa834eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0e6ca20ad9c9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Spaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cd294c492d3377c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,6 +149,14 @@
             }
           },
           {
+            "id": "d6be4f9a88f48699",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
             "id": "6a766c377fd027af",
             "type": "leaf",
             "state": {
@@ -308,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md"
+              }
             }
           },
           {
@@ -317,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +218,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "fd8f03dec26fee27",
@@ -399,10 +272,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b073cca3de86f600",
+  "active": "87d067a5999ce7d6",
   "lastOpenFiles": [
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
     "Templates/Template Exam Topics.md",
     "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
@@ -418,8 +294,6 @@
     "Spaces/Home/Notas Temporárias/Questões/Az-204",
     "Spaces/Home/Notas Temporárias/Questões/fffffffff/fffffffff.md",
     "Spaces/Home/Notas Temporárias/Questões/fffffffff",
-    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
-    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões.md",
     "Spaces/Spaces.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
@@ -432,7 +306,6 @@
     "oi 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Tópico 1.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",

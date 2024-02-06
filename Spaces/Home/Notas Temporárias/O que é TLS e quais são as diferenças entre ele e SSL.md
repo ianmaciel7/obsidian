@@ -6,9 +6,6 @@ tags:
   - azure
 ---
 
-
-[https://rockcontent.com/br/blog/tls/]()
-
 # O que é Abordado ?
 * O que é ?
 	* TLS é a sigla de Transport Layer Security
@@ -28,6 +25,12 @@ tags:
 * O que Faz ?
 	* deixar site seguro
 	* aumenta rankeamento de SSOs
-* SP4 veio antes do TLS
-* TLS é considerado o sucessor do SLL
-* SLL foi descontinuado
+* Historia
+	* SP4 veio antes do TLS
+	* TLS é considerado o sucessor do SLL
+	* SLL foi descontinuado
+
+
+# Referência 
+* [https://rockcontent.com/br/blog/tls/]()
+
