@@ -11,59 +11,6 @@
             "id": "919e4d47083531dd",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "28ef09b9acfdc7a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74b2a32ba972062f",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões"
-              }
-            }
-          },
-          {
-            "id": "3cca908f72362b4c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/bookmarks.json",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "f21641dec52a9f8a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões"
-              }
-            }
-          },
-          {
-            "id": "65705463fea1e27c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
@@ -72,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,12 +223,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "65705463fea1e27c",
+  "active": "1039662540a961ab",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
-    "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
     "Spaces.md",
     "conflict-files-obsidian-git.md",
     "Spaces/#azure-key-vault/#azure-key-vault.md",
@@ -316,7 +259,6 @@
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar Certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
     "oi.md",
-    "oi 4.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",
