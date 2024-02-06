@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"up\":Questões",
+      "query": "section:(Questões)",
       "color": {
         "a": 1,
-        "rgb": 16678057
+        "rgb": 16724858
+      }
+    },
+    {
+      "query": "section:(Notas Temporárias)",
+      "color": {
+        "a": 1,
+        "rgb": 61183
       }
     }
   ],

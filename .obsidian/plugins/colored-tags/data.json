@@ -20,7 +20,10 @@
     "questão": 8,
     "questo": 9,
     "questões": 10,
-    "az-204": 11
+    "az-204": 11,
+    "VMs": 12,
+    "deploy": 13,
+    "redeploy": 14
   },
   "_version": 3
 }
