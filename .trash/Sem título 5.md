@@ -1,10 +1,9 @@
 ---
 aliases: 
-Questão: 1
-Tópico: 1
-tags: 
+Questão: 0
+Tópico: 
+tags: []
 _contexts:
-  - "#questão"
   - "#notas-temporárias"
 ---
 
