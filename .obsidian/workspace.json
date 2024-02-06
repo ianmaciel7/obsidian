@@ -55,16 +55,36 @@
             "id": "106cfd57b169da1a",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
+              }
+            }
+          },
+          {
+            "id": "4b5f548515af46c9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
+              }
+            }
+          },
+          {
+            "id": "4f08ac95846b07aa",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template Exam Topics.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +164,7 @@
       {
         "id": "90e9f541be2834bc",
         "type": "tabs",
-        "dimension": 57.55813953488372,
+        "dimension": 70.63953488372093,
         "children": [
           {
             "id": "8da95f376d3cdb3b",
@@ -177,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md"
               }
             }
           },
@@ -187,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +256,7 @@
       {
         "id": "fd8f03dec26fee27",
         "type": "tabs",
-        "dimension": 42.44186046511628,
+        "dimension": 29.360465116279073,
         "children": [
           {
             "id": "36106bdda9f47de9",
@@ -284,11 +304,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "2b2860ec11929c76",
+  "active": "b66d50934efda624",
   "lastOpenFiles": [
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Para redeploy de VMs sempre usar Redeploy blade.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
     "Templates/Template Exam Topics.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+    "Spaces/#questões/#questões.md",
+    "Spaces/#questões",
+    "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Para redeploy de VMs sempre usar Redeploy blade.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics/Exam Topics.md",
@@ -314,14 +339,9 @@
     "oi 3.md",
     "oi 2.md",
     "oi 1.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Tópico 1.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar certificados.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",
-    "Spaces/#notas-temporárias",
     "Spaces/Home/azure/ABSMember.svg",
     "Complementos/Ícones/azure/APIManagementServices.svg",
     "Complementos/Ícones/azure/ABSMember.svg",
