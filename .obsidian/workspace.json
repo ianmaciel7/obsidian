@@ -267,9 +267,17 @@
               "type": "trash-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "b66d50934efda624",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -356,7 +364,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "fd8f03dec26fee27",
