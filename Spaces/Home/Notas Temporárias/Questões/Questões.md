@@ -6,4 +6,5 @@ _sort:
   field: rank
   asc: false
   group: false
+up: "[[Spaces/Home/Notas Temporárias/Notas Temporárias.md]]"
 ---

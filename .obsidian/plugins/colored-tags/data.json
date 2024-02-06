@@ -20,7 +20,15 @@
     "questão": 8,
     "questo": 9,
     "questões": 10,
-    "az-204": 11
+    "az-204": 11,
+    "VMs": 12,
+    "deploy": 13,
+    "redeploy": 14,
+    "azure-key-vault": 15,
+    "azure/policy-Access": 1,
+    "azure/policy-access": 2,
+    "azure/key-vault": 3,
+    "azure/policy-acess": 4
   },
   "_version": 3
 }

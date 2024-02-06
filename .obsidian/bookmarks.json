@@ -1,22 +1,3 @@
 {
-  "items": [
-    {
-      "type": "group",
-      "ctime": 1706662698766,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1706663155365,
-          "path": "4. Notas Permanentes/Azure/Azure.md"
-        }
-      ],
-      "title": "Cloud"
-    },
-    {
-      "type": "group",
-      "ctime": 1706662826895,
-      "items": [],
-      "title": "Zettelkasten"
-    }
-  ]
+  "items": []
 }

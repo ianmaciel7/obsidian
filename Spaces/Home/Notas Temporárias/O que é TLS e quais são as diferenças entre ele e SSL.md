@@ -1,9 +1,5 @@
 ---
-tags:
-  - notas-temporárias
-  - TLS
-  - SLL
-  - azure
+up: "[[Spaces/Home/Notas Temporárias/Notas Temporárias.md]]"
 ---
 
 # O que é Abordado ?

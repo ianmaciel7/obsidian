@@ -2,23 +2,23 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#notas-temporárias  ",
+      "query": "section:(Questões)",
       "color": {
         "a": 1,
-        "rgb": 16262437
+        "rgb": 50129
       }
     },
     {
-      "query": "tag:#notion  ",
+      "query": "section:(Notas Temporárias)",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 61183
       }
     }
   ],
@@ -32,6 +32,11 @@
   "repelStrength": 12.9166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
+<<<<<<< HEAD
   "scale": 0.7132754626224467,
   "close": true
+=======
+  "scale": 0.7132754626224496,
+  "close": false
+>>>>>>> origin/main
 }

@@ -40,14 +40,36 @@
             }
           },
           {
-            "id": "87d067a5999ce7d6",
+            "id": "568c6194b3e5d58e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3cca908f72362b4c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/bookmarks.json",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "f21641dec52a9f8a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           },
@@ -64,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,9 +198,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +207,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +223,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,10 +289,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "87d067a5999ce7d6",
+  "active": "f21641dec52a9f8a",
   "lastOpenFiles": [
-    "Sem título.canvas",
+    "conflict-files-obsidian-git.md",
+    "Spaces.md",
+    "Spaces/#azure-key-vault/#azure-key-vault.md",
+    "Spaces/#azure-key-vault",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+    "Sem título.canvas",
     "Spaces/Home/Notas Temporárias/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
@@ -303,12 +325,9 @@
     "oi.md",
     "oi 4.md",
     "oi 3.md",
-    "oi 2.md",
-    "oi 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",
-    "Spaces/#notas-temporárias",
     "Spaces/Home/azure/ABSMember.svg",
     "Complementos/Ícones/azure/APIManagementServices.svg",
     "Complementos/Ícones/azure/ABSMember.svg",

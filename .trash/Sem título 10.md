@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 aliases:
   - Template Exam Topics
@@ -9,6 +10,8 @@ _contexts:
   - "#notas-temporárias"
   - exam-topics
 ---
+=======
+>>>>>>> origin/main
 
 # Observação
 

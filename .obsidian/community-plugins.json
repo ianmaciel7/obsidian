@@ -6,5 +6,9 @@
   "colored-tags",
   "templater-obsidian",
   "obsidian-trash-explorer",
+<<<<<<< HEAD
+=======
+  "obsidian-excalidraw-plugin",
+>>>>>>> origin/main
   "obsidian-mind-map"
 ]
