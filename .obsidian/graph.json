@@ -5,20 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#azure  ",
+      "query": "tag:#notas-temporárias  ",
       "color": {
         "a": 1,
-        "rgb": 2535144
+        "rgb": 16262437
       }
     },
     {
-      "query": "",
+      "query": "tag:#notion  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16777215
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 12.9166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.000000000000006,
+  "scale": 0.7132754626224466,
   "close": false
 }
