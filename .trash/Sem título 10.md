@@ -1,11 +1,9 @@
 ---
-aliases: 
+aliases:
+  - Template Exam Topics
 Questão: 0
 Tópico: "0"
-tags:
-  - notas-temporárias
-  - questões
-  - exam-topics
+tags: 
 _contexts:
   - "#questão"
   - "#notas-temporárias"

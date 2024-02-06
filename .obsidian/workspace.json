@@ -53,11 +53,9 @@
             "id": "53496dca57bc9ccc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
               }
             }
           },
@@ -87,11 +85,9 @@
             "id": "b073cca3de86f600",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Templates/Template Exam Topics.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
               }
             }
           },
@@ -155,11 +151,9 @@
             "id": "3af077d1f02c3f6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
               }
             }
           },
@@ -210,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -314,9 +308,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -325,7 +317,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -342,7 +333,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -409,13 +399,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "3af077d1f02c3f6a",
+  "active": "b073cca3de86f600",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
+    "Templates/Template Exam Topics.md",
+    "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
-    "Templates/Template Exam Topics.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics/Exam Topics.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
@@ -442,7 +433,6 @@
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Tópico 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar certificados.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",
