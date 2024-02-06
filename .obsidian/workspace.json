@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md"
+                "file": "Spaces/Home/Notas Temporárias/Sem título.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "fd8f03dec26fee27",
@@ -250,8 +250,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,8 +273,9 @@
   },
   "active": "87d067a5999ce7d6",
   "lastOpenFiles": [
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+    "Spaces/Home/Notas Temporárias/Sem título.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
@@ -305,7 +305,6 @@
     "oi 2.md",
     "oi 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Tópico 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",
