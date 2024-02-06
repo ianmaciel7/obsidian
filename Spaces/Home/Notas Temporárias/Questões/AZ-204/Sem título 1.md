@@ -1,0 +1,5 @@
+---
+aliases:
+  - Devemos usar o
+---
+

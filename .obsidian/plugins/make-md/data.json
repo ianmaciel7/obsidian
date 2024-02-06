@@ -1,7 +1,7 @@
 {
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
-  "filePreviewOnHover": false,
+  "filePreviewOnHover": true,
   "flowMenuEnabled": true,
   "markSans": false,
   "blinkEnabled": true,
@@ -90,7 +90,10 @@
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
-    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões"
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
