@@ -12,6 +12,3 @@ _contexts:
 Para fazer redeploy de VMs sempre usar Redeploy blade
 
 # Referências 
-
-
-![![Spaces/Home/Notas Temporárias/Questões/AZ-204/#^Table]]
