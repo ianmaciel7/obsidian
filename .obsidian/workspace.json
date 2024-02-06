@@ -131,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md"
+              }
             }
           },
           {
@@ -140,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +227,7 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "1039662540a961ab",
+  "active": "919e4d47083531dd",
   "lastOpenFiles": [
     "Spaces/Home/Notas Temporárias/Questões/Exam Topics AZ-204.md",
     "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
