@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Redeploy de VMs
+aliases: 
 Questão: 0
 Tópico: 
 tags: 
