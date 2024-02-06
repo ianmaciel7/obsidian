@@ -147,11 +147,11 @@
     "////Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "spaces://$tags/spaces://#azure-key-vault",
     "spaces://$tags/spaces://#azure-key-vault",
+    "///Spaces/Home/Notas Temporárias/Questões",
     "/",
     "Spaces",
     "/Spaces/Home",
-    "//Spaces/Home/Notas Temporárias",
-    "///Spaces/Home/Notas Temporárias/Questões"
+    "//Spaces/Home/Notas Temporárias"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
