@@ -143,9 +143,17 @@
               "type": "trash-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "6519e1daf935e263",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões.md"
+              }
             }
           },
           {
@@ -207,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,6 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "fd8f03dec26fee27",
@@ -285,12 +297,14 @@
       "command-palette:Abrir paleta de comandos": true,
       "workspaces:Gerenciar leiautes da área de trabalho": true,
       "markdown-importer:Abrir importador Markdown": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f21641dec52a9f8a",
+  "active": "801b44d35af1a5b0",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
     "conflict-files-obsidian-git.md",
     "Spaces.md",
     "Spaces/#azure-key-vault/#azure-key-vault.md",
@@ -304,7 +318,6 @@
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
     "Templates/Template Exam Topics.md",
     "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics/Exam Topics.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics",

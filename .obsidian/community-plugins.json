@@ -1,14 +1,11 @@
 [
-  "obsidian-git",
-  "make-md",
   "better-fn",
-  "open-in-new-tab",
   "colored-tags",
-  "templater-obsidian",
-  "obsidian-trash-explorer",
-<<<<<<< HEAD
-=======
   "obsidian-excalidraw-plugin",
->>>>>>> origin/main
-  "obsidian-mind-map"
+  "make-md",
+  "obsidian-git",
+  "obsidian-mind-map",
+  "open-in-new-tab",
+  "templater-obsidian",
+  "obsidian-trash-explorer"
 ]
