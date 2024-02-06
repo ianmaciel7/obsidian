@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b8bdfc893a3eeeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "311d0ef77e5dabe1",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Templates"
-              }
-            }
-          },
-          {
-            "id": "d1f6c47895ce1f01",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Templates"
-              }
-            }
-          },
-          {
-            "id": "7fe5450572057f51",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template Exam Topics.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2b3f29c5d6b07018",
@@ -123,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -169,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template Exam Topics.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md"
               }
             }
           },
@@ -179,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template Exam Topics.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Template Exam Topics.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,16 +230,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bccabc935e16000",
+  "active": "acaba1a69a71bb5c",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
     "Templates/Template Questão.md",
     "Templates/Template Exam Topics.md",
     "Templates/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
     "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy.md",
     "Spaces/Home/Notas Temporárias/Questões/Sem título 3.md",

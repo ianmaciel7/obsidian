@@ -1,7 +1,8 @@
 ---
-aliases: 
-Questão: 1
-Tópico: 1
+aliases:
+  - Redeploy de VMs
+Questão: 0
+Tópico: 
 tags: 
 _contexts:
   - "#questão"
