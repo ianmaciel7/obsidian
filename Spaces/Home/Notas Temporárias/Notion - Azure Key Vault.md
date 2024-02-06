@@ -1,6 +1,5 @@
 ---
 tags:
-  - azure
   - notion
   - notas-temporárias
 aliases:
