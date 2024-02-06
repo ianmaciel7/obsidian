@@ -1,10 +1,11 @@
 ---
-aliases: []
+aliases: 
 Questão: 1
 Tópico: 1
-tags: 
+tags:
+  - questão
+  - exam-topics
 _contexts:
-  - "#questão"
   - "#notas-temporárias"
 ---
 

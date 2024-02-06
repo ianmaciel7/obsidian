@@ -4,46 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0769342d39245db",
+        "id": "5a55f0f27a6613a1",
         "type": "tabs",
         "children": [
           {
-            "id": "677fa6d0c309050d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb2dfbd576a40b9a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
-              }
-            }
-          },
-          {
-            "id": "a00c9d7f119fff58",
+            "id": "296fdeee934a9115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md"
+              }
             }
           },
           {
@@ -148,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "fd8f03dec26fee27",
@@ -209,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,24 +208,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb2dfbd576a40b9a",
+  "active": "4122e7f420e31a06",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar Certificados.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
     "oi.md",
     "oi 4.md",
     "oi 3.md",
     "oi 2.md",
     "oi 1.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
     "Templates/Template Questão.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Tópico 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Armazenar certificados.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
     "Templates/Template Exam Topics.md",
     "Templates/Sem título.md",
     "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
@@ -258,8 +238,6 @@
     "Spaces/Home/Notas Temporárias/Questões/Sem título 1.md",
     "Templates",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
-    "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
-    "Spaces/Spaces.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204",
     "Spaces/Home/Notas Temporárias/Questões",
     "Spaces/#notas-temporárias",
