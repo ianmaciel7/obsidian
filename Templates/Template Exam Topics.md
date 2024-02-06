@@ -1,11 +1,13 @@
 ---
-aliases: 
+aliases:
+  - Template Exam Topics
 Questão: 0
-Tópico: 
+Tópico: "0"
 tags: 
 _contexts:
   - "#questão"
   - "#notas-temporárias"
+  - exam-topics
 ---
 
 # Observação

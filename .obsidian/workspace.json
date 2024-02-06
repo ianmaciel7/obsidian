@@ -21,9 +21,11 @@
             "id": "75116ef23103833b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -51,9 +53,11 @@
             "id": "53496dca57bc9ccc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -61,32 +65,10 @@
             "id": "10e140f75d5e420d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
-              }
-            }
-          },
-          {
-            "id": "64773cbb5a3fcb11",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7124c5a35bafb256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
-                "mode": "source",
+                "file": "Templates/Template Exam Topics.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,9 +87,11 @@
             "id": "b073cca3de86f600",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+                "file": "Templates/Template Exam Topics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -115,9 +99,11 @@
             "id": "134f9dd52098495f",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -125,9 +111,11 @@
             "id": "3e54a32462717962",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/fffffffff"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -137,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
               }
             }
           },
@@ -159,7 +147,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
               }
             }
           },
@@ -167,9 +155,11 @@
             "id": "3af077d1f02c3f6a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -182,18 +172,6 @@
                 "file": ".trash/AZ-204 Exam-Topics Tópico 1.md",
                 "staged": false,
                 "hash": "062c90196039eaedd225b045d1533915d49eabca"
-              }
-            }
-          },
-          {
-            "id": "3e4e73086c2180b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -232,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -280,6 +258,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "317463d8be6f4ce0",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {}
             }
           }
         ],
@@ -329,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md"
               }
             }
           },
@@ -339,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +342,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,17 +409,28 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "acaba1a69a71bb5c",
+  "active": "3af077d1f02c3f6a",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
+    "Templates/Template Exam Topics.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics/Exam Topics.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+    "AZ-204/AZ-204.md",
+    "AZ-204",
+    "Spaces/Home/Notas Temporárias/Questões/Az-204/Az-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/Az-204",
     "Spaces/Home/Notas Temporárias/Questões/fffffffff/fffffffff.md",
     "Spaces/Home/Notas Temporárias/Questões/fffffffff",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
     "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões.md",
     "Spaces/Spaces.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar Certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
@@ -442,25 +439,14 @@
     "oi 3.md",
     "oi 2.md",
     "oi 1.md",
-    "Templates/Template Questão.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Tópico 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Redeploy de VMs.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Armazenar certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
-    "Templates/Template Exam Topics.md",
-    "Templates/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy.md",
     "Templates",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204",
     "Spaces/Home/Notas Temporárias/Questões",
     "Spaces/#notas-temporárias",
-    "Spaces/#azure",
-    "Spaces/Home/Notas Temporárias",
-    "Spaces/Home",
-    "Spaces/Home/t",
     "Spaces/Home/azure/ABSMember.svg",
     "Complementos/Ícones/azure/APIManagementServices.svg",
     "Complementos/Ícones/azure/ABSMember.svg",
