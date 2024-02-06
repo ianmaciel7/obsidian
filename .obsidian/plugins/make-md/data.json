@@ -135,13 +135,14 @@
     "spaces://$tags/spaces://#q",
     "spaces://$tags/spaces://#az-204",
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões",
-    "////Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "/",
     "Spaces",
     "/Spaces/Home",
     "//Spaces/Home/Notas Temporárias",
-    "///Spaces/Home/Notas Temporárias/Questões"
+    "///Spaces/Home/Notas Temporárias/Questões",
+    "////Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

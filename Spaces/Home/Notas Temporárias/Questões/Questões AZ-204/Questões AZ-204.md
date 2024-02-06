@@ -1,5 +1,5 @@
 ---
-_filters: []
+_filters: 
 _contexts:
   - "#notas-temporárias"
   - "#questões"

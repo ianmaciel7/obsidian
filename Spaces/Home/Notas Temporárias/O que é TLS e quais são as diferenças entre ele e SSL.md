@@ -1,9 +1,6 @@
 ---
-tags:
-  - notas-temporárias
-  - TLS
-  - SLL
-  - azure
+tags: []
+up: "[[Spaces/Home/Notas Temporárias]]"
 ---
 
 
