@@ -1,0 +1,21 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "azure": 1,
+    "notion": 2,
+    "notas-temporárias": 3,
+    "TLS": 4,
+    "SLL": 5,
+    "exam-topics": 6
+  },
+  "_version": 3
+}
