@@ -137,7 +137,8 @@
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões",
-    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -155,7 +156,7 @@
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
-  "dataviewInlineContext": false,
+  "dataviewInlineContext": true,
   "inlineContextNameLayout": "vertical",
   "waypoints": [
     "/",
