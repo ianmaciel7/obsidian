@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd39d11df21c1b53",
+        "id": "2aab13c8385f48b9",
         "type": "tabs",
         "children": [
           {
-            "id": "1433263ab2f88f6a",
+            "id": "8a0648de889a2bc0",
             "type": "leaf",
             "state": {
               "type": "mk-space",
@@ -18,74 +18,22 @@
             }
           },
           {
-            "id": "c6990bc4fe687d1c",
+            "id": "661b61d2f6829f51",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
+                "path": "Spaces/Home/Notas Temporárias/Questões"
               }
             }
           },
           {
-            "id": "680c949497795134",
+            "id": "7ffa884eaacad266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fda15d7dfdebd039",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "2b2860ec11929c76",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "spaces://#az-204"
-              }
-            }
-          },
-          {
-            "id": "106cfd57b169da1a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "4b5f548515af46c9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
-              }
-            }
-          },
-          {
-            "id": "4f08ac95846b07aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões.md",
                 "mode": "source",
                 "source": false
               }
@@ -301,10 +249,14 @@
   },
   "active": "8da95f376d3cdb3b",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
+    "notas tempoárias.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
     "Select Note.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 2.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
     "Templates/Template Exam Topics.md",
     "Spaces/#questões/#questões.md",
     "Spaces/#questões",
@@ -323,17 +275,13 @@
     "Spaces/Home/Notas Temporárias/Questões/Az-204",
     "Spaces/Home/Notas Temporárias/Questões/fffffffff/fffffffff.md",
     "Spaces/Home/Notas Temporárias/Questões/fffffffff",
-    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
     "Spaces/Spaces.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar Certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
     "oi.md",
     "oi 4.md",
-    "oi 3.md",
-    "oi 2.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Antigo
 Questão: 0
 Tópico: 
 tags: 
