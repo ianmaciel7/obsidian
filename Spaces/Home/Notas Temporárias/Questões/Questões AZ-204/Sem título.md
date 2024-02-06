@@ -6,6 +6,8 @@ tags:
 _contexts:
   - "#questão"
   - "#notas-temporárias"
+_links:
+  - "[[Questões AZ-204]]"
 ---
 
 ![![Spaces/Home/Notas Temporárias/#^Table1]]

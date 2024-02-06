@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Template Exam Topics
 Tópico: "0"
 Questão: 0
 tags:
@@ -9,6 +10,5 @@ tags:
 ---
 
 # Observação
-Para redeploy de VMs sempre usar Redeploy blade
 
 # Referências 

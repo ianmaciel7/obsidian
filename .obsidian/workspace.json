@@ -21,6 +21,16 @@
             "id": "c6990bc4fe687d1c",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204"
+              }
+            }
+          },
+          {
+            "id": "680c949497795134",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
@@ -43,11 +53,9 @@
             "id": "2b2860ec11929c76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
-                "mode": "source",
-                "source": false
+                "path": "spaces://#az-204"
               }
             }
           },
@@ -84,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,14 +143,6 @@
             }
           },
           {
-            "id": "317463d8be6f4ce0",
-            "type": "leaf",
-            "state": {
-              "type": "trash-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "b66d50934efda624",
             "type": "leaf",
             "state": {
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,7 +205,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +221,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,8 +246,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "fd8f03dec26fee27",
@@ -304,12 +299,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b66d50934efda624",
+  "active": "8da95f376d3cdb3b",
   "lastOpenFiles": [
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
+    "Select Note.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 2.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Tópico 1 Questão 1 .md",
     "Templates/Template Exam Topics.md",
-    "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
     "Spaces/#questões/#questões.md",
     "Spaces/#questões",
     "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
@@ -338,7 +334,6 @@
     "oi 4.md",
     "oi 3.md",
     "oi 2.md",
-    "oi 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",
