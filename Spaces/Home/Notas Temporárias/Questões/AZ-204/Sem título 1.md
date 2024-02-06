@@ -1,5 +1,0 @@
----
-aliases:
-  - Devemos usar o
----
-

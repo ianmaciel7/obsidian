@@ -15,7 +15,9 @@
     "notas-temporárias": 3,
     "TLS": 4,
     "SLL": 5,
-    "exam-topics": 6
+    "exam-topics": 6,
+    "Questão": 7,
+    "questão": 8
   },
   "_version": 3
 }
