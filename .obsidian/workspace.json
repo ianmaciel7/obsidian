@@ -33,7 +33,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "spaces://#questões"
+                "path": "Spaces/Home/Notas Temporárias/Questões"
               }
             }
           },
@@ -51,11 +51,125 @@
             "id": "53496dca57bc9ccc",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+              }
+            }
+          },
+          {
+            "id": "10e140f75d5e420d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+              }
+            }
+          },
+          {
+            "id": "64773cbb5a3fcb11",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7124c5a35bafb256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d49df9c93dc6affb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias"
+              }
+            }
+          },
+          {
+            "id": "b073cca3de86f600",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+              }
+            }
+          },
+          {
+            "id": "134f9dd52098495f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+              }
+            }
+          },
+          {
+            "id": "3e54a32462717962",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/fffffffff"
+              }
+            }
+          },
+          {
+            "id": "13dde7e83be082da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17401c6e30a86b2b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+              }
+            }
+          },
+          {
+            "id": "345ef1da2d6dc7e9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
+              }
+            }
+          },
+          {
+            "id": "3af077d1f02c3f6a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões/AZ-204"
               }
             }
           },
@@ -82,9 +196,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e65c643fa834eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0e6ca20ad9c9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd294c492d3377c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias/Questões"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -181,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md"
               }
             }
           },
@@ -191,7 +339,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +370,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "fd8f03dec26fee27",
@@ -276,13 +423,18 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "53496dca57bc9ccc",
+  "active": "acaba1a69a71bb5c",
   "lastOpenFiles": [
+    "Spaces/Home/Notas Temporárias/Questões/fffffffff/fffffffff.md",
+    "Spaces/Home/Notas Temporárias/Questões/fffffffff",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
+    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões.md",
+    "Spaces/Spaces.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título.md",
+    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar Certificados.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
     "oi.md",
@@ -299,12 +451,8 @@
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates/Template Exam Topics.md",
     "Templates/Sem título.md",
-    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy.md",
-    "Spaces/Home/Notas Temporárias/Questões/Sem título 3.md",
-    "Spaces/Home/Notas Temporárias/Questões/Sem título 2.md",
-    "Spaces/Home/Notas Temporárias/Questões/Sem título 1.md",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204",
     "Spaces/Home/Notas Temporárias/Questões",
@@ -313,7 +461,6 @@
     "Spaces/Home/Notas Temporárias",
     "Spaces/Home",
     "Spaces/Home/t",
-    "Spaces/Home/Azure",
     "Spaces/Home/azure/ABSMember.svg",
     "Complementos/Ícones/azure/APIManagementServices.svg",
     "Complementos/Ícones/azure/ABSMember.svg",

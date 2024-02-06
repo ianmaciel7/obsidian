@@ -2,6 +2,7 @@
 tags:
   - notion
   - notas-temporárias
+  - azure
 aliases:
 ---
 * O Azure Key Vault é um serviço de nuvem projetado para o armazenamento seguro e acesso confiável a segredos[^1]. Este serviço é altamente versátil, podendo ser utilizado em diversos contextos, como em aplicativos web, funções (functions) e outros serviços, tanto dentro do ecossistema Azure quanto externamente a ele.

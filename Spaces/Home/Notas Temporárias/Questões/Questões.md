@@ -1,7 +1,6 @@
 ---
 _filters: []
-_contexts:
-  - "#questões"
+_contexts: []
 _links: []
 _sort:
   field: rank
