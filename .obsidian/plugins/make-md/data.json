@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": true,
-  "activeView": "Spaces/Home",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "dd MMM yyyy",
@@ -66,7 +66,11 @@
     "Spaces/Home/Spaces/Home/Notas Temporárias",
     "Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
     "Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
-    "Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204"
+    "Spaces/Home/Spaces/Home/Notas Temporárias/Spaces/Home/Notas Temporárias/Questões/Spaces/Home/Notas Temporárias/Questões/AZ-204",
+    "Spaces/Home/Spaces/Home/Notas Temporárias",
+    "//Spaces",
+    "//Spaces/Spaces/Home",
+    "//Spaces/Spaces/Home/Spaces/Home/Notas Temporárias"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

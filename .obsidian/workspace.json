@@ -11,11 +11,9 @@
             "id": "ce50b1faa39f988a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/Notas Temporárias"
               }
             }
           },
@@ -127,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "fd8f03dec26fee27",
@@ -223,8 +216,9 @@
   },
   "active": "ce50b1faa39f988a",
   "lastOpenFiles": [
-    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204 Exam-Topics Tópico 1.md",
+    "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
     "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204",
@@ -233,7 +227,6 @@
     "Spaces/Home/Notas Temporárias/zzz.md",
     "Spaces/#azure/#azure.md",
     "Spaces/#notas-temporárias/#notas-temporárias.md",
-    "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
     "Sem título.md",
     "().md",
     "undefined 1.md",
