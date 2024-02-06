@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Sem título.md"
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Sem título.md",
+                "file": "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,6 +273,7 @@
   },
   "active": "87d067a5999ce7d6",
   "lastOpenFiles": [
+    "Sem título.canvas",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
     "Spaces/Home/Notas Temporárias/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
@@ -304,7 +305,6 @@
     "oi 3.md",
     "oi 2.md",
     "oi 1.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",
@@ -319,7 +319,6 @@
     "Complementos/Ícones/azure/BlobBlock.svg",
     "Complementos/Ícones/azure/BizTalk.svg",
     "Complementos/Ícones/azure/BatchAccounts.svg",
-    "Notas Permanentes/Azure/Azure.canvas",
-    "Sem título.canvas"
+    "Notas Permanentes/Azure/Azure.canvas"
   ]
 }
