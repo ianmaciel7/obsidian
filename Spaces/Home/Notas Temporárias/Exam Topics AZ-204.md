@@ -1,5 +1,5 @@
 ---
-up: "[[Spaces/Home/Notas Temporárias/Questões/Questões.md]]"
+up: "[[Notas Temporárias]]"
 ---
 
 # Tópico 1
@@ -23,7 +23,10 @@ up: "[[Spaces/Home/Notas Temporárias/Questões/Questões.md]]"
 | 19 | Uma Storage Area Network (SAN) é uma rede especializada e de alta velocidade que fornece acesso em nível de bloco ao armazenamento de dados. SANs são usadas principalmente para melhorar o desempenho e a disponibilidade do armazenamento de dados.Uma Storage Area Network (SAN) é uma rede especializada e de alta velocidade que fornece acesso em nível de bloco ao armazenamento de dados. SANs são usadas principalmente para melhorar o desempenho e a disponibilidade do armazenamento de dados. pelo modelo sincrono seria o bloqueio da execução do aplicativo de funções até que o email fosse enviado, já o modelo assíncrono não haveria bloqueio |
 | 21 | Os alertas de métrica são com estado - notificam apenas uma vez quando o alerta é disparado e uma vez quando o alerta é resolvido; ao contrário dos alertas de log, que não têm estado e continuam disparando a cada intervalo se a condição de alerta for atendida.Os alertas de métrica são com estado - notificam apenas uma vez quando o alerta é disparado e uma vez quando o alerta é resolvido; ao contrário dos alertas de log, que não têm estado e continuam disparando a cada intervalo se a condição de alerta for atendida. webapp` precisa criar `az appservice plan create` |
 | 22 | Quando queremos usar expressões regulares no Azure Search configuramos a propriedade `QueryType` da classe `SearchParameters`.Configure a propriedade `QueryType` da classe `SearchParameters`. |
-| 28 |   Configuramos a propriedade Filter da classe SearchParameters para  |
+| 28 |   no Azure Search configuramos a propriedade Filter da classe SearchParameters para filtrar faixa dados com OData  |
+trinta um
+
+
 
 21. 
 22. 
