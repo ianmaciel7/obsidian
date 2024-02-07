@@ -7,4 +7,9 @@ _sort:
   asc: false
   group: false
 up: "[[Spaces/Home]]"
+zettelFlowSettings:
+  root: false
+  actions: []
+  label: ""
+  childrenHeader: ""
 ---
