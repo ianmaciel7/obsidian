@@ -9,5 +9,6 @@
   "templater-obsidian",
   "obsidian-trash-explorer",
   "link-exploder",
-  "canvas-links"
+  "canvas-links",
+  "link-nodes-in-canvas"
 ]

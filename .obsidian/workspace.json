@@ -8,17 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "919e4d47083531dd",
+            "id": "67832220b04749b1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias"
+              }
+            }
+          },
+          {
+            "id": "180ffcc042843b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template Exam Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a42efa790d2076ce",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "Notion - Azure Key Vault.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -153,
-                  "zoom": 0
+                  "x": 1250,
+                  "y": -296.47435897435906,
+                  "zoom": -1.5548511837159797
                 }
+              }
+            }
+          },
+          {
+            "id": "0a0d9f793907df2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Notas Temporárias/Exam Topics AZ-204.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2107595f2ef9fd7d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Notas Temporárias"
               }
             }
           },
@@ -30,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -143,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.canvas"
+                "file": "Notion - Azure Key Vault.canvas"
               }
             }
           },
@@ -153,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "Notion - Azure Key Vault.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "Notion - Azure Key Vault.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +228,25 @@
               "type": "make-context-view",
               "state": {}
             }
+          },
+          {
+            "id": "b71b9c8069b44386",
+            "type": "leaf",
+            "state": {
+              "type": "file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9c3dcfa89a0a021",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "fd8f03dec26fee27",
@@ -237,12 +299,19 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "919e4d47083531dd",
+  "active": "a42efa790d2076ce",
   "lastOpenFiles": [
     "Spaces/Home/Notas Temporárias/Exam Topics AZ-204.md",
-    "Sem título.canvas",
-    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
+    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+    "Notion - Azure Key Vault.canvas",
+    "Spaces/Home/Home.md",
+    "Sem título-0.canvas",
+    "Sem título-1.canvas",
+    "Sem título.canvas",
+    "Templates/Template Exam Topics.md",
+    "Spaces/Home/Notas Temporárias/Questões/Questões.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Questões AZ-204.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Como Fazer Redeploy de VMs.md",
     "Spaces.md",
@@ -251,10 +320,7 @@
     "Spaces/#azure-key-vault",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título.md",
     "Spaces/Home/Notas Temporárias/Sem título.md",
-    "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
-    "Spaces/Home/Notas Temporárias/O que é TLS e quais são as diferenças entre ele e SSL.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204/Sem título 1.md",
-    "Templates/Template Exam Topics.md",
     "Spaces/Home/Notas Temporárias/Questões/Sem título.md",
     "Spaces/Home/Notas Temporárias/Questões/Questões AZ-204",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Exam Topics/Exam Topics.md",
@@ -271,7 +337,6 @@
     "Spaces/Spaces.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Redeploy de VMs.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Armazenar Certificados.md",
-    "Spaces/Home/Notas Temporárias/Questões/AZ-204/Sem título 1.md",
     "Spaces/Home/Notas Temporárias/Questões/AZ-204/Tópico 1",
     "Templates",
     "Spaces/Home/Notas Temporárias/Questões",

@@ -13,3 +13,8 @@ zettelFlowSettings:
   label: ""
   childrenHeader: ""
 ---
+
+%%  %%
+* [[Exam Topics AZ-204]]
+* [[Notion - Azure Key Vault]]
+

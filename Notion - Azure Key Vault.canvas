@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+      "width": 500,
+      "height": 500,
+      "y": 0,
+      "x": 0,
+      "type": "file",
+      "file": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+      "color": "1"
+    },
+    {
+      "id": "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 0,
+      "type": "file",
+      "file": "Spaces/Home/Notas Temporárias/Notas Temporárias.md"
+    },
+    {
+      "id": "Spaces/Home/Notas Temporárias/Exam Topics AZ-204.md",
+      "width": 500,
+      "height": 500,
+      "x": 2000,
+      "y": 0,
+      "type": "file",
+      "file": "Spaces/Home/Notas Temporárias/Exam Topics AZ-204.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md-Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+      "toNode": "Spaces/Home/Notas Temporárias/Notas Temporárias.md"
+    },
+    {
+      "id": "Spaces/Home/Notas Temporárias/Notas Temporárias.md-Spaces/Home/Notas Temporárias/Exam Topics AZ-204.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+      "toNode": "Spaces/Home/Notas Temporárias/Exam Topics AZ-204.md"
+    },
+    {
+      "id": "Spaces/Home/Notas Temporárias/Notas Temporárias.md-Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+      "toNode": "Spaces/Home/Notas Temporárias/Notion - Azure Key Vault.md"
+    }
+  ]
+}

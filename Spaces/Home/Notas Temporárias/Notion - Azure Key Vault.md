@@ -17,3 +17,4 @@ up: "[[Spaces/Home/Notas Temporárias/Notas Temporárias.md]]"
 
 
 [^1]: segredos são qualquer coisa a qual você queira controlar rigidamente o acesso como Chaves de API como: senhas, certificados, chaves criptográficas, credenciais administrativas e etc..
+
