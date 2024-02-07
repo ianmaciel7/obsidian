@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notas Temporárias.md"
+                "file": "Sem título.canvas"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+                "file": "Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Notas Temporárias/Notas Temporárias.md",
+                "file": "Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,8 +234,7 @@
       "markdown-importer:Abrir importador Markdown": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "zettelflow:Create a new Zettel Note": false
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "919e4d47083531dd",
